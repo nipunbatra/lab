@@ -4,8 +4,8 @@ project:
 
 website:
   title: "Nipun Batra"
-  navbar:
-    left:
+  sidebar:
+    contents:
       - href: index.qmd
         text: Home
       - href: values.qmd
@@ -14,7 +14,7 @@ website:
         text: Expectations
       - href: writing-papers.qmd
         text: Writing Papers
-      - href: technical-bacground.qmd
+      - href: technical-background.qmd
         text: Technical Background
       - href: meetings.qmd
         text: Meetings
