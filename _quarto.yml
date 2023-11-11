@@ -5,9 +5,21 @@ project:
 website:
   title: "Nipun Batra"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
+      - href: values.qmd
+        text: Values
+      - href: expectations.qmd
+        text: Expectations
+      - href: writing-papers.qmd
+        text: Writing Papers
+      - href: technical-bacground.qmd
+        text: Technical Background
+      - href: meetings.qmd
+        text: Meetings
+      - href: lor.qmd
+        text: Letters of Recommendation
       
 
 format:
