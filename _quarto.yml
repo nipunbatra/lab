@@ -20,6 +20,8 @@ website:
         text: Meetings
       - href: lor.qmd
         text: Letters of Recommendation
+      - href: server.qmd
+        text: Server Policy
       
 
 format:
