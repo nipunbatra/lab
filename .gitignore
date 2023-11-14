@@ -4,3 +4,7 @@
 .Ruserdata
 /.quarto/
 docs
+
+# DS Store files
+**/.DS_Store
+
