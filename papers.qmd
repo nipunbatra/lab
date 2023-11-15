@@ -2,3 +2,25 @@
 title: "Writing Papers"
 ---
 
+#### Paper structure and Abstract
+I gave a talk ([recording here](https://www.youtube.com/watch?v=LoCoplWgvp4), [slides here](https://github.com/nipunbatra/CS-Research-Methods-Bootcamp/blob/master/RM101.pdf)) on how to write a paper. I recommend watching it. Other materials from the talk are available [here](https://github.com/nipunbatra/CS-Research-Methods-Bootcamp).
+
+#### Tables
+We follow this excellent [small guide to making nice tables](https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf) by Markus Püschel.
+
+#### Comments in LaTeX
+We typically create a macro corresponding to different author initials (I use `\nb` for example) and then use that to create comments in the text. This is useful for commenting on the text, or for leaving notes to yourself. For example, I might write `\nb{I'm not sure about this sentence}` and then I can search for all instances of `\nb` to find all of my comments.
+
+```tex
+\newcommand{\nb}[1]{{\color{red}\small \iftoggle{hide}{}{\textbf{Nipun's comment:} #1}}}
+```
+
+#### Active v/s Passive Voice
+
+#### American v/s British English
+
+#### Paper timelines
+
+
+
+
