@@ -18,6 +18,10 @@ website:
               text: Papers
             - href: posters.qmd
               text: Posters
+            - href: talks.qmd
+              text: Talks
+            - href: media.qmd
+              text: Media
       - href: technical-background.qmd
         text: Technical Background
       - href: meetings.qmd
