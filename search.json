@@ -84,6 +84,13 @@
     "text": "How to ask for LOR article by Gautam Kamath"
   },
   {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Writing Papers",
+    "section": "",
+    "text": "Paper structure and Abstract\nI gave a talk (recording here, slides here) on how to write a paper. I recommend watching it. Other materials from the talk are available here.\n\n\nTables\nWe follow this excellent small guide to making nice tables by Markus Püschel.\n\n\nComments in LaTeX\nWe typically create a macro corresponding to different author initials (I use \\nb for example) and then use that to create comments in the text. This is useful for commenting on the text, or for leaving notes to yourself. For example, I might write \\nb{I'm not sure about this sentence} and then I can search for all instances of \\nb to find all of my comments.\n\\newcommand{\\nb}[1]{{\\color{red}\\small \\iftoggle{hide}{}{\\textbf{Nipun's comment:} #1}}}\n\n\nActive v/s Passive Voice\n\n\nAmerican v/s British English\n\n\nPaper timelines"
+  },
+  {
     "objectID": "meetings.html",
     "href": "meetings.html",
     "title": "Meetings",
