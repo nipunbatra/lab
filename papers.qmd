@@ -7,6 +7,10 @@ Paper writing is a key part of research. This page contains some tips and tricks
 #### Paper structure and Abstract
 I gave a talk ([recording here](https://www.youtube.com/watch?v=LoCoplWgvp4), [slides here](https://github.com/nipunbatra/CS-Research-Methods-Bootcamp/blob/master/RM101.pdf)) on how to write a paper. I recommend watching it. Other materials from the talk are available [here](https://github.com/nipunbatra/CS-Research-Methods-Bootcamp).
 
+#### LaTeXify figures
+
+#### Self-contained figures and tables (and captions)
+
 #### Tables
 We follow this excellent [small guide to making nice tables](https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf) by Markus Püschel.
 
