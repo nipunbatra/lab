@@ -14,8 +14,10 @@ website:
         text: Expectations
       - section: Communicating Research
         contents:
-            - href: writing-papers.qmd
-              text: Writing Papers
+            - href: papers.qmd
+              text: Papers
+            - href: posters.qmd
+              text: Posters
       - href: technical-background.qmd
         text: Technical Background
       - href: meetings.qmd
