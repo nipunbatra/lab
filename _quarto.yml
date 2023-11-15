@@ -12,8 +12,10 @@ website:
         text: Values
       - href: expectations.qmd
         text: Expectations
-      - href: writing-papers.qmd
-        text: Writing Papers
+      - section: Communicating Research
+        contents:
+            - href: writing-papers.qmd
+              text: Writing Papers
       - href: technical-background.qmd
         text: Technical Background
       - href: meetings.qmd
