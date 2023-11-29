@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/nipunbatra/lab/expectations.html</loc>
-    <lastmod>2023-11-16T11:19:13.860Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/nipunbatra/lab/group_pics.html</loc>
-    <lastmod>2023-11-16T11:19:12.688Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/nipunbatra/lab/papers.html</loc>
-    <lastmod>2023-11-16T11:19:12.108Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/nipunbatra/lab/talks.html</loc>
-    <lastmod>2023-11-16T11:19:11.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/nipunbatra/lab/index.html</loc>
-    <lastmod>2023-11-16T11:19:10.800Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/nipunbatra/lab/technical-background.html</loc>
-    <lastmod>2023-11-16T11:19:10.152Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/nipunbatra/lab/posters.html</loc>
-    <lastmod>2023-11-16T11:19:09.272Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/nipunbatra/lab/server.html</loc>
-    <lastmod>2023-11-16T11:19:10.440Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/nipunbatra/lab/lor.html</loc>
-    <lastmod>2023-11-16T11:19:11.100Z</lastmod>
+    <lastmod>2023-11-29T04:52:04.215Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/nipunbatra/lab/values.html</loc>
-    <lastmod>2023-11-16T11:19:11.640Z</lastmod>
+    <lastmod>2023-11-29T04:52:03.551Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/lor.html</loc>
+    <lastmod>2023-11-29T04:52:03.007Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/nipunbatra/lab/media.html</loc>
-    <lastmod>2023-11-16T11:19:12.372Z</lastmod>
+    <lastmod>2023-11-29T04:52:01.883Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/nipunbatra/lab/meetings.html</loc>
-    <lastmod>2023-11-16T11:19:13.552Z</lastmod>
+    <lastmod>2023-11-29T04:52:01.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/index.html</loc>
+    <lastmod>2023-11-29T04:52:00.767Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/papers.html</loc>
+    <lastmod>2023-11-29T04:51:59.607Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/talks.html</loc>
+    <lastmod>2023-11-29T04:52:00.419Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/expectations.html</loc>
+    <lastmod>2023-11-29T04:52:01.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/technical-background.html</loc>
+    <lastmod>2023-11-29T04:52:01.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/group_pics.html</loc>
+    <lastmod>2023-11-29T04:52:02.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/server.html</loc>
+    <lastmod>2023-11-29T04:52:03.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/nipunbatra/lab/experiences/gautam.html</loc>
+    <lastmod>2023-11-29T04:52:03.923Z</lastmod>
   </url>
 </urlset>
