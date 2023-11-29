@@ -10,6 +10,8 @@ website:
         text: Home
       - href: values.qmd
         text: Values
+      - href: experiences.qmd
+        text: Alumni Experiences
       - href: expectations.qmd
         text: Expectations
       - section: Communicating Research

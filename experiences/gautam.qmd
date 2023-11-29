@@ -3,6 +3,7 @@ title: "Sustainability Lab: A family atmosphere of learning and growth"
 author: "Gautam Vashishtha"
 date: "2023-11-29"
 ---
+
 ## About me
 Hello, my name is Gautam Vashishtha. As you're reading this, I'm likely engrossed in my role as a data scientist at Skan.ai, a pioneering Process Intelligence Startup based in the United States. The purpose of this narrative is to share my treasured experiences as an undergraduate student at IIT Gandhinagar, particularly my time at the Sustainability Lab, under the mentorship of Prof. Nipun.
 
