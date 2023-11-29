@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Nipun Batra - Posters</title>
+<title>Nipun Batra - Student Experiences</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -61,7 +63,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
@@ -74,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./papers.html">Communicating Research</a></li><li class="breadcrumb-item"><a href="./posters.html">Posters</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./experiences.html">Alumni Experiences</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -116,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./experiences.html" class="sidebar-item-text sidebar-link">
+  <a href="./experiences.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Alumni Experiences</span></a>
   </div>
 </li>
@@ -143,7 +176,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./posters.html" class="sidebar-item-text sidebar-link active">
+  <a href="./posters.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Posters</span></a>
   </div>
 </li>
@@ -196,7 +229,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Posters</h1>
+<h1 class="title">Student Experiences</h1>
 </div>
 
 
@@ -211,21 +244,45 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>In some venues, the main presentation format is a poster. Posters are a great way to present your work in a visual format, and to have one-on-one conversations with people who are interested in your work.</p>
-<p>One common mistake people make while making posters is to try to cram in too much information. Remember that the poster is to supplement you and not to replace you.</p>
-<p>Please see below for two posters that we have made in the past.</p>
-<p><img src="sample-poster-1.jpg" class="img-fluid"></p>
-<p><img src="sample-poster-2.jpg" class="img-fluid"></p>
-<p>Please find the presentation files corresponding to the first poster 1. <a href="https://github.com/nipunbatra/nipunbatra.github.io/blob/main/slides/2017/aaai_poster.key">Apple Keynote</a></p>
-<ol start="2" type="1">
-<li><p><a href="https://github.com/nipunbatra/nipunbatra.github.io/blob/main/slides/2017/aaai_poster.pptx">MS Powerpoint</a></p></li>
-<li><p><a href="https://docs.google.com/presentation/d/1mH50SOlfErQ683_DwXBcrxCixZ3DX3Mx/edit?usp=sharing&amp;ouid=109104637369595830870&amp;rtpof=true&amp;sd=true">Google Slides</a></p></li>
-</ol>
-<p>LaTeX users can use the following templates on <a href="https://www.overleaf.com/gallery/tagged/poster">Overleaf</a> to make their posters.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1701216000000" data-listing-file-modified-sort="1701233684409" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="thumbnail">
+<p><a href="./experiences/gautam.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./experiences/gautam.html">
+<h3 class="no-anchor listing-title">
+Sustainability Lab: A family atmosphere of learning and growth
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Hello, my name is Gautam Vashishtha. As you’re reading this, I’m likely engrossed in my role as a data scientist at Skan.ai, a pioneering Process Intelligence Startup based…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./experiences/gautam.html">
+<div class="listing-date">
+Nov 29, 2023
+</div>
+<div class="listing-author">
+Gautam Vashishtha
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
