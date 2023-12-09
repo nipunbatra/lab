@@ -32,6 +32,8 @@ website:
         text: Letters of Recommendation
       - href: server.qmd
         text: Server Policy
+      - href: group_pics_lb.qmd
+        text: Group Pictures
       
 
 format:
