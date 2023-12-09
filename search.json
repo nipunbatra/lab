@@ -18,7 +18,7 @@
     "href": "technical-background.html",
     "title": "Technical Background",
     "section": "",
-    "text": "Git and GitHub\n\n\nPython Data Science Stack\n\nWe recommend students to study the Python for Data Science Handbook by Jake VanderPlas. It is a free online book that covers the basics of Python, NumPy, Pandas, Matplotlib, and Scikit-Learn. It is a great resource for beginners and intermediate students alike.\nWe recommend students regularly hone their skills solving exercises such as 100 Numpy exercises. Given that much of our work is in Torch-like frameworks, the students would also benefit by attempting to solve the exercises using PyTorch.\n\n\n\nObject-Oriented Programming in Python"
+    "text": "Git and GitHub\n\n\nPython Data Science Stack\n\nWe recommend students to study the Python for Data Science Handbook by Jake VanderPlas. It is a free online book that covers the basics of Python, NumPy, Pandas, Matplotlib, and Scikit-Learn. It is a great resource for beginners and intermediate students alike.\nWe recommend students regularly hone their skills solving exercises such as 100 Numpy exercises. Given that much of our work is in Torch-like frameworks, the students would also benefit by attempting to solve the exercises using PyTorch.\n\n\n\nObject-Oriented Programming in Python\n\n\nLaTeX\nWe typically use LaTeX for writing reports and papers. We recommend students to use Overleaf for students to get started. Overleaf has a nice 30 minute tutorial that covers the basics of LaTeX. We highly recommend students to go through the tutorial."
   },
   {
     "objectID": "papers.html",
