@@ -10,10 +10,6 @@ description: |
   A gallery of example documents, websites, books, and presentations created with Quarto.
 ---
 
-::: {#hero-banner .column-screen}
-::: {.grid .column-page}
-::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
-
 
 ```{r}
 #| classes: '.g-col-lg-6 .g-col-12 .g-col-md-12'
