@@ -13,18 +13,7 @@ description: |
 ::: {#hero-banner .column-screen}
 ::: {.grid .column-page}
 ::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
-::: h1
-Gallery
-:::
 
-Quarto can produce a wide variety of output formats. Here are some examples:
-
--   [Articles & Reports](#articles-reports)
--   [Presentations](#presentations)
--   [Interactive Docs](#interactive-docs)
--   [Websites](#websites)
--   [Books](#books)
-:::
 
 ```{r}
 #| classes: '.g-col-lg-6 .g-col-12 .g-col-md-12'
