@@ -20,10 +20,9 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages: |
-            any::tidyverse 
-            any::googlesheets4
-      - name: Install rmarkdown package
-        run: Rscript -e 'install.packages("rmarkdown")'
+            any::rmarkdown
+            any::htmltools
+            any::yaml
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
