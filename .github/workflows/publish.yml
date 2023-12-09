@@ -14,10 +14,14 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
       - name: Set up R
-        uses: r-lib/actions/setup-r@v1
-        with:
-          r-version: 4.3.2
+        uses: r-lib/actions/setup-r@v2
 
+      - name: Install packages
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::tidyverse 
+            any::googlesheets4
       - name: Install rmarkdown package
         run: Rscript -e 'install.packages("rmarkdown")'
 
