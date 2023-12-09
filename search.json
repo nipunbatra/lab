@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "posters.html",
-    "href": "posters.html",
-    "title": "Posters",
-    "section": "",
-    "text": "In some venues, the main presentation format is a poster. Posters are a great way to present your work in a visual format, and to have one-on-one conversations with people who are interested in your work.\nOne common mistake people make while making posters is to try to cram in too much information. Remember that the poster is to supplement you and not to replace you.\nPlease see below for two posters that we have made in the past.\n\n\nPlease find the presentation files corresponding to the first poster 1. Apple Keynote\n\nMS Powerpoint\nGoogle Slides\n\nLaTeX users can use the following templates on Overleaf to make their posters."
-  },
-  {
-    "objectID": "values.html",
-    "href": "values.html",
-    "title": "Values",
-    "section": "",
-    "text": "Less but better: Publish one less paper, but make the ones you publish really strong. Show one less result in the meeting, but thoroughly analyse the ones you show."
-  },
-  {
     "objectID": "lor.html",
     "href": "lor.html",
     "title": "Letter of Recommendations",
     "section": "",
     "text": "How to ask for LOR article by Gautam Kamath"
+  },
+  {
+    "objectID": "server.html",
+    "href": "server.html",
+    "title": "Server Policy",
+    "section": "",
+    "text": "We often use servers for some of our projects. This page is to document the policies we have for our servers.\n\nHow to get access\n\n\nDon’ts\n\nDo not use the server for personal use or anything not related to the project. This includes any classwork or homework.\nDo not share your server credentials with anyone else.\n\n\n\nFair usage\n\nSometimes we have multiple projects running on the same server. Please be considerate of other projects and do not use up all the resources.\nSometimes we may allocate specific cores or GPUs to specific projects. Please do not use cores or GPUs that are not allocated to your project."
   },
   {
     "objectID": "technical-background.html",
@@ -28,13 +21,6 @@
     "text": "Git and GitHub\n\n\nPython Data Science Stack\n\nWe recommend students to study the Python for Data Science Handbook by Jake VanderPlas. It is a free online book that covers the basics of Python, NumPy, Pandas, Matplotlib, and Scikit-Learn. It is a great resource for beginners and intermediate students alike.\nWe recommend students regularly hone their skills solving exercises such as 100 Numpy exercises. Given that much of our work is in Torch-like frameworks, the students would also benefit by attempting to solve the exercises using PyTorch.\n\n\n\nObject-Oriented Programming in Python"
   },
   {
-    "objectID": "expectations.html",
-    "href": "expectations.html",
-    "title": "Expectations",
-    "section": "",
-    "text": "Hard work: We are often working on cutting-edge research. This means that there is no clear path to success. We will have to try different things, and we will fail often. This is part of the process. I expect my students to work hard, and I expect them to be resilient.\nConsistency: We do expect some seasonal variation in productivity. However, often the difference between a good and great project is the consistency of effort.\nStriving for excellence: Often, the difference between a good and great project (or paper) is the last 10% of effort. I try to push my students to go the extra mile, and I expect the same from myself. This goes in various aspects of work, including writing, coding, and data analysis. As an example, I remember doing ten rounds of feedback with an undergraduate student from the group on their presentation for a conference. It was a lot of work, but the student ended up getting offers (higher studies) after the talk; and the student was appreciated by the session chair - “It is hard to believe that you are an undergraduate student”.\nClear, honest communication I try to be as clear as possible in my communication, and I expect the same from my students. I also expect my students to be honest with me. If you are struggling with something, let me know. If you are not interested in a project, let me know. If you are not happy with something, let me know. I you are unable to meet a deadline, let me know. Lack of communication is counterproductive.\nI also typically want to help create a path for my students to achieve their goals. Thus, I expect my students to be clear about their goals, or be proactive in discussing their goals with me.\nCulture of respect and collaboration: I expect my students to be respectful to each other, and to other members of the community. I also expect my students to be collaborative. This means that they should be willing to help each other, and to help other members of the community."
-  },
-  {
     "objectID": "papers.html",
     "href": "papers.html",
     "title": "Writing Papers",
@@ -42,11 +28,18 @@
     "text": "Paper writing is a key part of research. This page contains some tips and tricks for writing papers. Paper writing is a skill that you will develop over time. But, it needs deliberate practice.\n\nPaper structure and Abstract\nI gave a talk (recording here, slides here) on how to write a paper. I recommend watching it. Other materials from the talk are available here.\n\n\nLaTeXify figures\n\n\nSelf-contained figures and tables (and captions)\n\n\nTables\nWe follow this excellent small guide to making nice tables by Markus Püschel.\n\n\nComments in LaTeX\nWe typically create a macro corresponding to different author initials (I use \\nb for example) and then use that to create comments in the text. This is useful for commenting on the text, or for leaving notes to yourself. For example, I might write \\nb{I'm not sure about this sentence} and then I can search for all instances of \\nb to find all of my comments.\n\\newcommand{\\nb}[1]{{\\color{red}\\small \\iftoggle{hide}{}{\\textbf{Nipun's comment:} #1}}}\n\n\nActive v/s Passive Voice\n\n\nAmerican v/s British English\nThere are a few differences in spelling between American and British English. For example, the word “colour” in British English is spelled “color” in American English. The word “optimise” in British English is spelled “optimize” in American English. There are also some differences in grammar. I recommend picking one and sticking to it. Most of our previous papers have used British English (but often this depends on the set of co-authors).\n\n\nPaper timelines\n\n\nGrammarly and other AI tools\nI recommend students use Grammarly (or a similar) tool to check their writing once they have done a complete pass of editing. I do not recommend relying a lot on ChatGPT-like tools for writing papers as they can often lead to “correct” sounding but “incorrect” sentences."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Group",
+    "objectID": "posters.html",
+    "href": "posters.html",
+    "title": "Posters",
     "section": "",
-    "text": "Some group photos and memories (to come soon..)\n\n\n\n\nCurrent\n\nPhD\n\nRishiraj Adhikary (July 2019 - present)\nZeel Patel (Jan 2020 - present)\nRishabh Mondal (June 2023 - present)\nKhush Shah (July 2023 - present)\n\n\n\nMTech\n\nSuraj Jaiswal (July 2022 - present)\nAyush Srivastava (July 2022 - present)\n\n\n\nBTech\n\nDhruv Patel (BTech 2024)\nHaikoo Khandor (BTech 2024)\nProgyan Das (BTech 2024)\nMadhav Kanda (BTech 2024)\nAditi Agarwal (BTech 2024)\nUtkarsh Mittal (BTech 2024)\n\n\n\n\nAlumni\n\nBTech\n\nAadesh Desai (BTech 2023): MS at CMU\nEshan Gujarathi (BTech 2023): Predoc at IIT Madras\nGautam Vasistha (BTech 2023): Data Scientist as Skan.AI\nHitarth Gandhi (BTech 2023): MS at UC Irvine\nSaagar Parikh (BTech 2023): MS at CMU\nXhitij Choudhary (BTech 2023): Data Scientist at Skan.AI\nChris Francis (BTech 2022): MS at UCSD\nDhruvi Lodhavia (BTech 2022): MS at UCSD\nHetvi Shastri (BTech 2022): PhD at UMass Amherst\nHarsh Patel (BTech 2022): MS at UCSD\nPalak Purohit (BTech 2022): MS at Caltech\nShivam Sahni (BTech 2022): MS at UCSD\nApoorv Agnihotri (BTech 2020): First job at Wadhwani AI -&gt; Data Scientist at Rephrase.ai\nDeepak Narayanan (BTech 2020): First job at Microsoft Research India -&gt; MS at ETH Zurich\nKukunuri Rithwik (BTech 2020): First job at Jio -&gt; Data Scientist at Nykaa\nSoham Pachpande (BTech 2020): First job at HSBC-&gt; MS at UCSD -&gt; SWE at Salesforce\n\n\n\nMTech\n\nAnkita Jain (MTech 2022): First job at Oracle\nKaran Kumar (MTech 2020): First job at Trading Technologies\nSouvik Roy (MTech 2020): First job at eClerx\n\n\n\nResearch Assistant\n\nKaushal Modi: Now a data scientist at InfiBeam\nPrerna Khanna: Now a PhD student at Stony Brook\nTanmay Srivastava: Now a PhD student at Stony Brook\nRohit Patil: First job at Publicis Sapient\n\n\n\n\nOutside IITGn Interns\n\nVibhuti Bansal (Summer 2022): Now at CRED\nRohit Khoiwal (Summer 2022)\nAnand Hegde (Summer 2022)\nShobhit Belwal (Summer 2022)\nAryan Varshney (Summer 2022)"
+    "text": "In some venues, the main presentation format is a poster. Posters are a great way to present your work in a visual format, and to have one-on-one conversations with people who are interested in your work.\nOne common mistake people make while making posters is to try to cram in too much information. Remember that the poster is to supplement you and not to replace you.\nPlease see below for two posters that we have made in the past.\n\n\nPlease find the presentation files corresponding to the first poster 1. Apple Keynote\n\nMS Powerpoint\nGoogle Slides\n\nLaTeX users can use the following templates on Overleaf to make their posters."
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "Expectations",
+    "section": "",
+    "text": "Hard work: We are often working on cutting-edge research. This means that there is no clear path to success. We will have to try different things, and we will fail often. This is part of the process. I expect my students to work hard, and I expect them to be resilient.\nConsistency: We do expect some seasonal variation in productivity. However, often the difference between a good and great project is the consistency of effort.\nStriving for excellence: Often, the difference between a good and great project (or paper) is the last 10% of effort. I try to push my students to go the extra mile, and I expect the same from myself. This goes in various aspects of work, including writing, coding, and data analysis. As an example, I remember doing ten rounds of feedback with an undergraduate student from the group on their presentation for a conference. It was a lot of work, but the student ended up getting offers (higher studies) after the talk; and the student was appreciated by the session chair - “It is hard to believe that you are an undergraduate student”.\nClear, honest communication I try to be as clear as possible in my communication, and I expect the same from my students. I also expect my students to be honest with me. If you are struggling with something, let me know. If you are not interested in a project, let me know. If you are not happy with something, let me know. I you are unable to meet a deadline, let me know. Lack of communication is counterproductive.\nI also typically want to help create a path for my students to achieve their goals. Thus, I expect my students to be clear about their goals, or be proactive in discussing their goals with me.\nCulture of respect and collaboration: I expect my students to be respectful to each other, and to other members of the community. I also expect my students to be collaborative. This means that they should be willing to help each other, and to help other members of the community."
   },
   {
     "objectID": "meetings.html",
@@ -56,11 +49,18 @@
     "text": "Whole Group Meetings\nWe typically meet once a week for about 45-50 mins. We usually cover a variety of topics, including: - Short updates from each person on their progress - Discussion of any issues that have come up - Presentations on topics/tools of interest to the group - Paper discussions\nWe expect students to volunteer to present on topics of interest to them. We also expect students to volunteer to present on papers.\n\n\nProject Meetings\nThe project meetings are tied to specific projects. We typically start with discussing the last meeting’s action items, then discuss any issues that have come up, and then discuss the next steps. The lead student on the project is responsible for setting the agenda and running the meeting. The lead student is also responsible for taking notes and posting them on the project’s repository.\n\n\nIndividual Meetings\n\nRefer to https://github.com/jbhuang0604/awesome-tips"
   },
   {
-    "objectID": "experiences.html",
-    "href": "experiences.html",
-    "title": "Alumni Experiences",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Group",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 29, 2023\n\n\nSustainability Lab: A family atmosphere of learning and growth\n\n\nGautam Vashishtha\n\n\n\n\n\n\nNo matching items"
+    "text": "Some group photos and memories (to come soon..)\n\n\n\n\nCurrent\n\nPhD\n\nRishiraj Adhikary (July 2019 - present)\nZeel Patel (Jan 2020 - present)\nRishabh Mondal (June 2023 - present)\nKhush Shah (July 2023 - present)\n\n\n\nMTech\n\nSuraj Jaiswal (July 2022 - present)\nAyush Srivastava (July 2022 - present)\n\n\n\nBTech\n\nDhruv Patel (BTech 2024)\nHaikoo Khandor (BTech 2024)\nProgyan Das (BTech 2024)\nMadhav Kanda (BTech 2024)\nAditi Agarwal (BTech 2024)\nUtkarsh Mittal (BTech 2024)\n\n\n\n\nAlumni\n\nBTech\n\nAadesh Desai (BTech 2023): MS at CMU\nEshan Gujarathi (BTech 2023): Predoc at IIT Madras\nGautam Vasistha (BTech 2023): Data Scientist as Skan.AI\nHitarth Gandhi (BTech 2023): MS at UC Irvine\nSaagar Parikh (BTech 2023): MS at CMU\nXhitij Choudhary (BTech 2023): Data Scientist at Skan.AI\nChris Francis (BTech 2022): MS at UCSD\nDhruvi Lodhavia (BTech 2022): MS at UCSD\nHetvi Shastri (BTech 2022): PhD at UMass Amherst\nHarsh Patel (BTech 2022): MS at UCSD\nPalak Purohit (BTech 2022): MS at Caltech\nShivam Sahni (BTech 2022): MS at UCSD\nApoorv Agnihotri (BTech 2020): First job at Wadhwani AI -&gt; Data Scientist at Rephrase.ai\nDeepak Narayanan (BTech 2020): First job at Microsoft Research India -&gt; MS at ETH Zurich\nKukunuri Rithwik (BTech 2020): First job at Jio -&gt; Data Scientist at Nykaa\nSoham Pachpande (BTech 2020): First job at HSBC-&gt; MS at UCSD -&gt; SWE at Salesforce\n\n\n\nMTech\n\nAnkita Jain (MTech 2022): First job at Oracle\nKaran Kumar (MTech 2020): First job at Trading Technologies\nSouvik Roy (MTech 2020): First job at eClerx\n\n\n\nResearch Assistant\n\nKaushal Modi: Now a data scientist at InfiBeam\nPrerna Khanna: Now a PhD student at Stony Brook\nTanmay Srivastava: Now a PhD student at Stony Brook\nRohit Patil: First job at Publicis Sapient\n\n\n\n\nOutside IITGn Interns\n\nVibhuti Bansal (Summer 2022): Now at CRED\nRohit Khoiwal (Summer 2022)\nAnand Hegde (Summer 2022)\nShobhit Belwal (Summer 2022)\nAryan Varshney (Summer 2022)"
+  },
+  {
+    "objectID": "values.html",
+    "href": "values.html",
+    "title": "Values",
+    "section": "",
+    "text": "Less but better: Publish one less paper, but make the ones you publish really strong. Show one less result in the meeting, but thoroughly analyse the ones you show."
   },
   {
     "objectID": "group_pics.html#nov-2023",
@@ -119,13 +119,6 @@
     "text": "Nov 2021\n\nApoorv’s “re” visit to the campus (others in frame: Rishiraj and Zeel)"
   },
   {
-    "objectID": "server.html",
-    "href": "server.html",
-    "title": "Server Policy",
-    "section": "",
-    "text": "We often use servers for some of our projects. This page is to document the policies we have for our servers.\n\nHow to get access\n\n\nDon’ts\n\nDo not use the server for personal use or anything not related to the project. This includes any classwork or homework.\nDo not share your server credentials with anyone else.\n\n\n\nFair usage\n\nSometimes we have multiple projects running on the same server. Please be considerate of other projects and do not use up all the resources.\nSometimes we may allocate specific cores or GPUs to specific projects. Please do not use cores or GPUs that are not allocated to your project."
-  },
-  {
     "objectID": "experiences/gautam.html",
     "href": "experiences/gautam.html",
     "title": "Sustainability Lab: A family atmosphere of learning and growth",
@@ -166,5 +159,12 @@
     "title": "Sustainability Lab: A family atmosphere of learning and growth",
     "section": "Culture at SL",
     "text": "Culture at SL\nBeyond academic excellence, Prof. Nipun built a vibrant culture and camaraderie in the lab. He has a unique way of fostering a familial atmosphere in the lab, from celebrating Teacher’s Day to enjoying lab dinners and shared moments of humor. One of my most cherished memories is receiving a personalized message and a copy of “The One Thing” by Gary Keller and Jay Papasan from him. His ongoing support for students and alumni, including career guidance, reflects his dedication to nurturing a community of budding researchers.\nMy experiences at Sustainability Lab have been instrumental in shaping my journey as a researcher in Representation Learning and in my professional endeavors. The opportunity to work with Prof. Nipun and his unwavering support and teachings have left an indelible impact on my life and career and I am forever grateful for his support and mentorship."
+  },
+  {
+    "objectID": "experiences.html",
+    "href": "experiences.html",
+    "title": "Alumni Experiences",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nNov 29, 2023\n\n\nSustainability Lab: A family atmosphere of learning and growth\n\n\nGautam Vashishtha\n\n\n\n\n\n\nNo matching items"
   }
 ]
