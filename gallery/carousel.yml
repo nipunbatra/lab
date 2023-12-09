@@ -1,13 +1,10 @@
-
 - caption: "Articles and reports with Python and R"
   image: "../images/group/2023-Fall.jpg"
-  link: "#articles-reports"
   
 - caption: "Create data-driven presentations"
   image: "../images/group/2023-July-all.jpg"
-  link: "#presentations"
   
 - caption: "Engage readers with interactivity"
   image: "../images/group/2023-July.jpg"
-  link: "#interactive-docs"
-  
+
+  # Empty line at the end
