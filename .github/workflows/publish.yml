@@ -17,6 +17,9 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Install rmarkdown package
+        run: Rscript -e 'install.packages("rmarkdown")'
+
       - name: Install Quarto Lightbox extension
         run: quarto install extension quarto-ext/lightbox --no-prompt
 
