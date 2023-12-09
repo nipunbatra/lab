@@ -1,8 +1,5 @@
 ---
 pagetitle: "Gallery"
-format:
-  html:
-    toc: false
 search: false
 execute:
   echo: false
