@@ -12,7 +12,8 @@ title: "Technical Background"
 
 ### Object-Oriented Programming in Python
 
-### 
+### LaTeX
 
+We typically use LaTeX for writing reports and papers. We recommend students to use [Overleaf](https://www.overleaf.com/) for students to get started. Overleaf has a nice 30 minute [tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) that covers the basics of LaTeX. We highly recommend students to go through the tutorial.
 
 
