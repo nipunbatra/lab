@@ -8,6 +8,7 @@ description: |
 ---
 
 ::: {#hero-banner .column-screen}
+:::
 
 ```{r}
 #| classes: '.g-col-lg-6 .g-col-12 .g-col-md-12'
