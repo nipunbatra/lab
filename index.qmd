@@ -26,30 +26,45 @@ July 2019 - present
 
 #### Test
 
-::: {layout-ncol=4}
-<img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image">
-Rishiraj Adhikary (July 2019 - present)
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
-<img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image">
-Zeel Patel (Jan 2020 - present)
+  <div class="member">
+    <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image">
+    Rishiraj Adhikary (July 2019 - present)
+  </div>
 
-<img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image">
-Rishiraj Adhikary (July 2019 - present)
+  <div class="member">
+    <img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image">
+    Zeel Patel (Jan 2020 - present)
+  </div>
 
-<img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image">
-Zeel Patel (Jan 2020 - present)
+  <div class="member">
+    <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image">
+    Rishiraj Adhikary (July 2019 - present)
+  </div>
 
-:::
+  <div class="member">
+    <img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image">
+    Zeel Patel (Jan 2020 - present)
+  </div>
+
+</div>
 
 <style>
+.member {
+  flex: 1 0 120px; /* Adjust the width as needed */
+  text-align: center;
+}
+
 .cropped-image {
-  width: 120px;
-  height: 120px;
+  width: 100%;
+  height: 120px; /* Adjust the height as needed */
   object-fit: cover;
-  border: 2px solid #333; /* Set the border style and color */
-  border-radius: 8px; /* Optional: add rounded corners for a nicer look */
+  border: 2px solid #333;
+  border-radius: 8px;
 }
 </style>
+
 
 ::: columns
 ::: {.column width="50%"}
