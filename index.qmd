@@ -10,17 +10,45 @@ output:
 #### PhD 
 
 ::: {layout-ncol=4}
-<img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image"><br/>
-[Rishiraj Adhikary](https://rishi-a.github.io) (July 2019 - present)
+<a href="https://rishi-a.github.io">
+  <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image"><br/>
+</a>
+Rishiraj Adhikary (July 2019 - present)
 
-<img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image"><br/>
-[Zeel Patel](https://patel-zeel.github.io) (Jan 2020 - present)
+<a href="https://patel-zeel.github.io">
+  <img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image"><br/>
+</a>
+Zeel Patel (Jan 2020 - present)
 
-<img src="https://rishabh-mondal.github.io/ris.jpg" class="cropped-image"><br/>
-[Rishabh Mondal](https://rishabh-mondal.github.io) (June 2023 - present)
+<a href="https://rishabh-mondal.github.io">
+  <img src="https://rishabh-mondal.github.io/ris.jpg" class="cropped-image"><br/>
+</a>
+Rishabh Mondal (June 2023 - present)
 
-<img src="https://khush24shah.github.io/images/Khush.jpeg" class="cropped-image"><br/>
-[Khush Shah](https://khush24shah.github.io) (July 2023 - present)
+<a href="https://khush24shah.github.io">
+  <img src="https://khush24shah.github.io/images/Khush.jpeg" class="cropped-image"><br/>
+</a>
+Khush Shah (July 2023 - present)
+
+<a href="https://rishi-a.github.io">
+  <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image2"><br/>
+</a>
+Rishiraj Adhikary (July 2019 - present)
+
+<a href="https://patel-zeel.github.io">
+  <img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image2"><br/>
+</a>
+Zeel Patel (Jan 2020 - present)
+
+<a href="https://rishabh-mondal.github.io">
+  <img src="https://rishabh-mondal.github.io/ris.jpg" class="cropped-image2"><br/>
+</a>
+Rishabh Mondal (June 2023 - present)
+
+<a href="https://khush24shah.github.io">
+  <img src="https://khush24shah.github.io/images/Khush.jpeg" class="cropped-image2"><br/>
+</a>
+Khush Shah (July 2023 - present)
 
 :::
 
@@ -32,6 +60,25 @@ output:
   border: 2px solid #333; /* Set the border style and color */
   border-radius: 8px; /* Optional: add rounded corners for a nicer look */
 }
+
+.cropped-image:hover {
+  /* change border colour */
+  border-color: #6495ED;
+}
+
+.cropped-image2 {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border: 2px solid #333; /* Set the border style and color */
+  border-radius: 8px; /* Optional: add rounded corners for a nicer look */
+}
+
+.cropped-image2:hover {
+  /* change opacity */
+  opacity: 0.8;
+}
+
 </style>
 
 
