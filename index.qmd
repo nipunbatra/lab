@@ -15,17 +15,24 @@ output:
 
 #### PhD 
 
+::: {layout-ncol=2}
 - Rishiraj Adhikary (July 2019 - present)
 - Zeel Patel (Jan 2020 - present)
 - Rishabh Mondal (June 2023 - present)
 - Khush Shah (July 2023 - present)
 
+:::
+
 #### MTech
 
+::: {layout-ncol=2}
 - Suraj Jaiswal (July 2022 - present)
 - Ayush Srivastava (July 2022 - present)
+:::
 
 #### BTech
+
+::: {layout-ncol=2}
 
 - Dhruv Patel (BTech 2024)
 - Haikoo Khandor (BTech 2024)
@@ -33,6 +40,7 @@ output:
 - Madhav Kanda (BTech 2024)
 - Aditi Agarwal (BTech 2024)
 - Utkarsh Mittal (BTech 2024)
+:::
 
 
 ### Alumni
