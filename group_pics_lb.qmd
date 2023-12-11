@@ -6,55 +6,42 @@ filters:
 lightbox: auto
 ---
 
-## 15 Nov 2023
+Click on any picture to activate the "lightbox" mode. Use the arrow keys to navigate.
+
+## Nov 2023
 ![15 Nov 2023 Students working with us in the Fall 2023 semester.](images/group/2023-Fall.jpg){group="my-gallery"}
-![July 2023 at the 2023 batch convocation (and celebration of multiple awards!)](images/group/2023-July-all.jpg){group="my-gallery"}
-![May 2023 dinner](images/group/2023-July.jpg){group="my-gallery"}
-
-
 
 ## July 2023
-
-
-
+![July 2023 at the 2023 batch convocation (and celebration of multiple awards!)](images/group/2023-July-all.jpg){group="my-gallery"}
+![Ankita winning the Gold Medal for Outstanding Research](images/group/ankita-gm-2-3.png){group="my-gallery"}
 
 
 ## May 2023
+![May 2023 dinner](images/group/2023-July.jpg){group="my-gallery"}
+
+![Batch of 2023 :Saagar, Aadesh, Xhitij, Nipun, Zeel (not batch of 2023), Ankita, Eshan, Hitarth, Gautam](images/group/2023-group.jpg){group="my-gallery"}
+
+![Cake by batch of 2023](images/group/2023-cake.jpg){group="my-gallery"}
 
 
-
-
-## 2 May 2023
-
-![](images/group/2023-group.jpg)
-
-
-Batch of 2023 (Saagar, Aadesh, Xhitij, Nipun, Zeel (not batch of 2023), Ankita, Eshan, Hitarth, Gautam)
-
-## 2 May 2023
-
-![](images/group/2023-cake.jpg)
-
-Cake by batch of 2023
 
 ## July 2022
 
-![](images/group/2022-group-subset.jpg)
+![With a subset of the batch of 2022 (Harsh, Hetvi, Nipun, Dhruvi, Palak)
+](images/group/2022-group-subset.jpg){group="my-gallery"}
 
-With a subset of the batch of 2022 (Harsh, Hetvi, Nipun, Dhruvi, Palak)
 
 ## Dec 2021
 
-![](images/group/2021-AAAI.jpg)
+![Celebrating AAAI paper acceptance
+](images/group/2021-AAAI.jpg){group="my-gallery"}
 
-Celebrating AAAI paper acceptance
 
 ## Nov 2021
 
-![](images/group/2021-Nov-Apoorv.jpg)
+![Apoorv's "re" visit to the campus (others in frame: Rishiraj and Zeel)](images/group/2021-Nov-Apoorv.jpg){group="my-gallery"}
 
 
-Apoorv's "re" visit to the campus (others in frame: Rishiraj and Zeel)
 
 
 

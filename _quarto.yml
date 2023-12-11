@@ -34,6 +34,8 @@ website:
         text: Server Policy
       - href: group_pics_lb.qmd
         text: Group Pictures
+      - herf: reading.qmd
+        text: Reading Group
       #- href: gallery/index.qmd
       #  text: Test Gallery
       
@@ -51,8 +53,4 @@ format:
 
 execute:
   freeze: auto
-
-build:
-  exclude: 
-    - gallery
 

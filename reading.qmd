@@ -1,0 +1,13 @@
+---
+title: "Reading Group"
+---
+
+### 2023
+
+| Date       | Speaker        | Paper | Slides |
+| :--------- | :------------- | :---- | :----- |
+| 2023-12-11 | Rishabh Mondal |       |        |
+|            |                |       |        |
+|            |                |       |        |
+
+
