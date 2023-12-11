@@ -18,7 +18,7 @@ output:
 ::: columns
 ::: {.column width="50%"}
 
-- Rishiraj Adhikary (July 2019 - present)
+- ![Rishiraj Adhikary](https://rishi-a.github.io/images/RISHIRAJ.jpg) Rishiraj Adhikary (July 2019 - present)
 - Zeel Patel (Jan 2020 - present)
 :::
 
