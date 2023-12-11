@@ -27,19 +27,27 @@ July 2019 - present
 #### Test
 
 ::: {layout-ncol=4}
-<img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" height="150">
+<img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image">
 Rishiraj Adhikary (July 2019 - present)
 
-<img src="https://patel-zeel.github.io/images/profile_crop.png" height="150">
+<img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image">
 Zeel Patel (Jan 2020 - present)
 
-<img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" height="150">
+<img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image">
 Rishiraj Adhikary (July 2019 - present)
 
-<img src="https://patel-zeel.github.io/images/profile_crop.png" height="150">
+<img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image">
 Zeel Patel (Jan 2020 - present)
 
 :::
+
+<style>
+.cropped-image {
+  width: 150px; /* Set the desired width */
+  height: 150px; /* Set the desired height */
+  object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+}
+</style>
 
 ::: columns
 ::: {.column width="50%"}
