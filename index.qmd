@@ -10,23 +10,6 @@ output:
 #### PhD 
 
 ::: {layout-ncol=4}
-![Rishiraj](https://rishi-a.github.io/images/RISHIRAJ.jpg)
-July 2019 - present
-
-![Zeel](https://patel-zeel.github.io/images/profile_crop.png)
-*Hanno* - Assistant Professor, specializing in Bayesian Inference
-
-![Rishiraj](https://rishi-a.github.io/images/RISHIRAJ.jpg)
-July 2019 - present
-
-![Zeel](https://patel-zeel.github.io/images/profile_crop.png)
-*Hanno* - Assistant Professor, specializing in Bayesian Inference
-
-:::
-
-#### Test
-
-::: {layout-ncol=4}
 <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image"><br/>
 Rishiraj Adhikary (July 2019 - present)
 
@@ -34,10 +17,10 @@ Rishiraj Adhikary (July 2019 - present)
 Zeel Patel (Jan 2020 - present)
 
 <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image"><br/>
-Rishiraj Adhikary (July 2019 - present)
+Rishabh Mondal (June 2023 - present)
 
 <img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image"><br/>
-Zeel Patel (Jan 2020 - present)
+Khush Shah (July 2023 - present)
 
 :::
 
@@ -50,21 +33,6 @@ Zeel Patel (Jan 2020 - present)
   border-radius: 8px; /* Optional: add rounded corners for a nicer look */
 }
 </style>
-
-::: columns
-::: {.column width="50%"}
-
-- ![Rishiraj Adhikary](https://rishi-a.github.io/images/RISHIRAJ.jpg) Rishiraj Adhikary (July 2019 - present)
-- Zeel Patel (Jan 2020 - present)
-:::
-
-::: {.column width="50%"}
-- Rishabh Mondal (June 2023 - present)
-- Khush Shah (July 2023 - present)
-
-
-:::
-:::
 
 
 #### MTech
