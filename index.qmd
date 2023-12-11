@@ -15,7 +15,8 @@ output:
 
 #### PhD 
 
-::: {layout-ncol=2}
+::: columns
+{layout-ncol=2}
 
 - Rishiraj Adhikary (July 2019 - present)
 - Zeel Patel (Jan 2020 - present)
