@@ -52,3 +52,7 @@ format:
 execute:
   freeze: auto
 
+build:
+  exclude: 
+    - gallery
+
