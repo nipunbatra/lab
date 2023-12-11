@@ -259,13 +259,14 @@ ul.task-list li input[type="checkbox"] {
   width: 120px;
   height: 120px;
   object-fit: cover;
-  border: 2px solid #333; /* Set the border style and color */
-  border-radius: 8px; /* Optional: add rounded corners for a nicer look */
+  border-bottom: 4px solid #777; /* Set the border style and color only at the bottom */
+  border-radius: 2px; /* Optional: add rounded corners for a nicer look */
+  transition: border-color 0.3s; /* Add smooth transition for the border color */
 }
 
 .cropped-image:hover {
-  /* change border colour */
-  border-color: #6495ED;
+  /* change border colour on hover */
+  border-color: tomato;
 }
 
 .cropped-image2 {
