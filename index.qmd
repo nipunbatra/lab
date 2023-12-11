@@ -4,12 +4,6 @@ output:
   html_document:
     self_contained: false
 ---
-### Some group photos and memories (to come soon..)
-
-```{=html}
-<iframe src="./group_pics.html" title="Quarto revealjs Documentation" style="height: 400px; width: 100%"></iframe>
-
-```
 
 ### Current
 

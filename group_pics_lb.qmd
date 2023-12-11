@@ -13,6 +13,7 @@ Click on any picture to activate the "lightbox" mode. Use the arrow keys to navi
 
 ## July 2023
 ![July 2023 at the 2023 batch convocation (and celebration of multiple awards!)](images/group/2023-July-all.jpg){group="my-gallery"}
+
 ![Ankita winning the Gold Medal for Outstanding Research](images/group/ankita-gm-2-3.png){group="my-gallery"}
 
 
