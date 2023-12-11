@@ -11,16 +11,16 @@ output:
 
 ::: {layout-ncol=4}
 <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image"><br/>
-Rishiraj Adhikary (July 2019 - present)
+[Rishiraj Adhikary](https://rishi-a.github.io) (July 2019 - present)
 
 <img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image"><br/>
-Zeel Patel (Jan 2020 - present)
+[Zeel Patel](https://patel-zeel.github.io) (Jan 2020 - present)
 
-<img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image"><br/>
-Rishabh Mondal (June 2023 - present)
+<img src="https://rishabh-mondal.github.io/ris.jpg" class="cropped-image"><br/>
+[Rishabh Mondal](https://rishabh-mondal.github.io) (June 2023 - present)
 
-<img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image"><br/>
-Khush Shah (July 2023 - present)
+<img src="https://khush24shah.github.io/images/Khush.jpeg" class="cropped-image"><br/>
+[Khush Shah](https://khush24shah.github.io) (July 2023 - present)
 
 :::
 
