@@ -16,14 +16,20 @@ output:
 #### PhD 
 
 ::: columns
-{layout-ncol=2}
+::: {.column width="50%"}
 
 - Rishiraj Adhikary (July 2019 - present)
 - Zeel Patel (Jan 2020 - present)
+:::
+
+::: {.column width="50%"}
 - Rishabh Mondal (June 2023 - present)
 - Khush Shah (July 2023 - present)
 
+
 :::
+:::
+
 
 #### MTech
 
