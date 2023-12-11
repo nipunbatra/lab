@@ -74,8 +74,8 @@ July 2019 - present
 :::
 
 ::: {.column width="50%"}
-- Rishabh Mondal (June 2023 - present)
-- Khush Shah (July 2023 - present)
+- [Rishabh Mondal](https://rishabh-mondal.github.io) (June 2023 - present)
+- [Khush Shah](https://khush24shah.github.io/) (July 2023 - present)
 
 
 :::
