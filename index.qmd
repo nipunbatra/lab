@@ -54,8 +54,8 @@ Khush Shah (July 2023 - present)
 
 <style>
 .cropped-image {
-  width: 130px;
-  height: 130px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border: 1px solid #777; /* Set a thin border on all sides */
   border-bottom: 4px solid #777; /* Set a thicker border only at the bottom (slightly darker than tomato) */
