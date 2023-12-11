@@ -90,3 +90,20 @@ output:
 - Anand Hegde (Summer 2022)
 - Shobhit Belwal (Summer 2022)
 - Aryan Varshney (Summer 2022) 
+
+::: columns
+::: {.column width="40%"}
+
+![](https://www.r-project.org/logo/Rlogo.png)
+:::
+
+::: {.column width="60%"}
+
+Some text that is very long and that should take most of the column space.
+
+<br>
+
+Some other text that should be below the first paragraph.
+
+:::
+:::
