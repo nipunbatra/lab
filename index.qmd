@@ -54,17 +54,18 @@ Khush Shah (July 2023 - present)
 
 <style>
 .cropped-image {
-  width: 120px;
-  height: 120px;
+  width: 130px;
+  height: 130px;
   object-fit: cover;
-  border-bottom: 4px solid #777; /* Set the border style and color only at the bottom */
+  border: 1px solid #777; /* Set a thin border on all sides */
+  border-bottom: 4px solid #d9534f; /* Set a thicker border only at the bottom (slightly darker than tomato) */
   border-radius: 2px; /* Optional: add rounded corners for a nicer look */
   transition: border-color 0.3s; /* Add smooth transition for the border color */
 }
 
 .cropped-image:hover {
-  /* change border colour on hover */
-  border-color: tomato;
+  /* Change border color on hover */
+  border-color: #d9534f; /* Use the same slightly darker color on hover */
 }
 
 .cropped-image2 {
