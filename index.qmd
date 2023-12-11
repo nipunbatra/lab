@@ -30,26 +30,6 @@ Rishabh Mondal (June 2023 - present)
 </a>
 Khush Shah (July 2023 - present)
 
-<a href="https://rishi-a.github.io">
-  <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image2"><br/>
-</a>
-Rishiraj Adhikary (July 2019 - present)
-
-<a href="https://patel-zeel.github.io">
-  <img src="https://patel-zeel.github.io/images/profile_crop.png" class="cropped-image2"><br/>
-</a>
-Zeel Patel (Jan 2020 - present)
-
-<a href="https://rishabh-mondal.github.io">
-  <img src="https://rishabh-mondal.github.io/ris.jpg" class="cropped-image2"><br/>
-</a>
-Rishabh Mondal (June 2023 - present)
-
-<a href="https://khush24shah.github.io">
-  <img src="https://khush24shah.github.io/images/Khush.jpeg" class="cropped-image2"><br/>
-</a>
-Khush Shah (July 2023 - present)
-
 :::
 
 <style>
@@ -67,20 +47,6 @@ Khush Shah (July 2023 - present)
   /* Change border color on hover */
   border-bottom-color: #d9534f; /* Use the same slightly darker color on hover */
 }
-
-.cropped-image2 {
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  border: 2px solid #333; /* Set the border style and color */
-  border-radius: 8px; /* Optional: add rounded corners for a nicer look */
-}
-
-.cropped-image2:hover {
-  /* change opacity */
-  opacity: 0.8;
-}
-
 </style>
 
 
@@ -88,8 +54,13 @@ Khush Shah (July 2023 - present)
 
 ::: {layout-ncol=2}
 
-- Suraj Jaiswal (July 2022 - present)
-- Ayush Srivastava (July 2022 - present)
+<a href="https://jaiswalsuraj487.github.io">
+  <img src="https://jaiswalsuraj487.github.io/images/profile_photo.jpg" class="cropped-image"><br/>
+</a>
+Suraj Jaiswal (July 2022 - present)
+
+<img src="images/Ayush_photo.jpg" class="cropped-image"><br/>
+Ayush Srivastava (July 2022 - present)
 
 :::
 
