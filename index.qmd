@@ -9,6 +9,21 @@ output:
 
 #### PhD 
 
+::: {layout-ncol=4}
+![Rishiraj](https://rishi-a.github.io/images/RISHIRAJ.jpg)
+July 2019 - present
+
+![Zeel](https://patel-zeel.github.io/images/profile_crop.png)
+*Hanno* - Assistant Professor, specializing in Bayesian Inference
+
+![Rishiraj](https://rishi-a.github.io/images/RISHIRAJ.jpg)
+July 2019 - present
+
+![Zeel](https://patel-zeel.github.io/images/profile_crop.png)
+*Hanno* - Assistant Professor, specializing in Bayesian Inference
+
+:::
+
 ::: columns
 ::: {.column width="50%"}
 
