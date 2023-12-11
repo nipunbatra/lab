@@ -11,8 +11,11 @@ Click on any picture to activate the "lightbox" mode. Use the arrow keys to navi
 ## Nov 2023
 ![15 Nov 2023 Students working with us in the Fall 2023 semester.](images/group/2023-Fall.jpg){group="my-gallery"}
 
-## Sep 2023
+## Oct 2023
 ![Rishiraj was a finalist in the presitigous Gaetano Borriello Outstanding Student Award at ACM Ubicomp 2023](images/group/rishiraj-award.jpeg){group="my-gallery"}
+
+## Sept 2023
+![15 Sept 2023 Received the Young Alumni Award from IIIT Delhi.](images/group/2023-Sept-Young_Alumni.jpg){group="my-gallery"}
 
 ## July 2023
 ![July 2023 at the 2023 batch convocation (and celebration of multiple awards!)](images/group/2023-July-all.jpg){group="my-gallery"}
