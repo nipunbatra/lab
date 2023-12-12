@@ -1,0 +1,60 @@
+---
+title: "Group Photos"
+author: ""
+filters:
+   - lightbox
+lightbox: auto
+---
+
+Click on any picture to activate the "lightbox" mode. Use the arrow keys to navigate.
+
+## Nov 2023
+![15 Nov 2023 Students working with us in the Fall 2023 semester.](images/memories/2023-Fall.jpg){group="my-gallery"}
+
+## Oct 2023
+![Rishiraj was a finalist in the presitigous Gaetano Borriello Outstanding Student Award at ACM Ubicomp 2023](images/memories/rishiraj-award.jpeg){group="my-gallery"}
+
+## Sept 2023
+![15 Sept 2023 Received the Young Alumni Award from IIIT Delhi.](images/memories/2023-Sept-Young_Alumni.jpg){group="my-gallery"}
+
+## July 2023
+![July 2023 at the 2023 batch convocation (and celebration of multiple awards!)](images/memories/2023-July-all.jpg){group="my-gallery"}
+
+![Ankita winning the Gold Medal for Outstanding Research](images/memories/ankita-gm-2-3.png){group="my-gallery"}
+
+
+## May 2023
+![May 2023 dinner](images/memories/2023-July.jpg){group="my-gallery"}
+
+![Batch of 2023 :Saagar, Aadesh, Xhitij, Nipun, Zeel (not batch of 2023), Ankita, Eshan, Hitarth, Gautam](images/memories/2023-group.jpg){group="my-gallery"}
+
+![Cake by batch of 2023](images/memories/2023-cake.jpg){group="my-gallery"}
+
+
+
+## July 2022
+
+![With a subset of the batch of 2022 (Harsh, Hetvi, Nipun, Dhruvi, Palak)
+](images/memories/2022-group-subset.jpg){group="my-gallery"}
+
+
+## Dec 2021
+
+![Celebrating AAAI paper acceptance
+](images/memories/2021-AAAI.jpg){group="my-gallery"}
+
+
+## Nov 2021
+
+![Apoorv's "re" visit to the campus (others in frame: Rishiraj and Zeel)](images/memories/2021-Nov-Apoorv.jpg){group="my-gallery"}
+
+
+
+
+
+
+
+
+
+
+

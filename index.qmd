@@ -59,7 +59,7 @@ output:
 </a>
 <span style="font-size: 0.8em;">Suraj Jaiswal  <br/>(July 2022 - present)</span>
 
-<img src="images/Ayush_photo.jpg" class="cropped-image"><br/>
+<img src="images/members/Ayush.jpg" class="cropped-image"><br/>
 <span style="font-size: 0.8em;">Ayush Srivastava  <br/>(July 2022 - present)</span>
 
 :::

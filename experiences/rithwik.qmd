@@ -9,7 +9,7 @@ I am Kukunuri Rithwik. I passed out from IIT Gandhinagar with a BTech in Compute
 
 During the start of my fifth semester Computer Science, I began a journey to explore machine learning. The interest sparked in me during the preceding summer, where I had the opportunity to explore ML.
 
-![Receiving my degree from Director, IITGn](../images/rithwik.jpeg)
+![Receiving my degree from Director, IITGn](../images/memories/rithwik.jpeg)
 
 ## Embarking on the ML Odyssey
 
@@ -35,7 +35,7 @@ Our efforts came to fruition, as the paper was accepted in the conference. The e
 
 During my final year at IIT Gandhinagar, I approached Prof. Nipun seeking guidance on transitioning to a full-time career in data science. Despite possessing solid knowledge of machine learning, my challenge was securing interview opportunities rather than a skill deficiency. With Prof. Nipun's support, I gained access to interviews at esteemed organizations like Bidgely, Wadhwani AI, and Reliance Jio.
 
-I landed my first job as a data scientist at Reliance Jio, thanks to Prof. Nipun's. He's willing to leverage both his academic and professional networks, going above and beyond to ensure our success. 
+I landed my first job as a data scientist at Reliance Jio, thanks to Prof. Nipun. He's willing to leverage both his academic and professional networks, going above and beyond to ensure our success. 
 
 ## Edge Methodologies in NILM: A Swift Research Venture
 

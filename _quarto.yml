@@ -32,10 +32,12 @@ website:
         text: Letters of Recommendation
       - href: server.qmd
         text: Server Policy
-      - href: group_pics_lb.qmd
+      - href: memories.qmd
         text: Group Pictures
       - href: reading.qmd
         text: Reading Group
+      - href: events.qmd
+        text: Events
       
 
 format:
