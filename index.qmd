@@ -9,7 +9,7 @@ output:
 
 #### PhD 
 
-::: {layout-ncol=4}
+::: {layout-ncol=5}
 <a href="https://rishi-a.github.io">
   <img src="https://rishi-a.github.io/images/RISHIRAJ.jpg" class="cropped-image"><br/>
 </a>
@@ -52,7 +52,7 @@ output:
 
 #### MTech
 
-::: {layout-ncol=2}
+::: {layout-ncol=5}
 
 <a href="https://jaiswalsuraj487.github.io">
   <img src="https://jaiswalsuraj487.github.io/images/profile_photo.jpg" class="cropped-image"><br/>
