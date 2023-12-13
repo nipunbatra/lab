@@ -62,6 +62,15 @@ output:
 <img src="images/members/Ayush.jpg" class="cropped-image"><br/>
 <span style="font-size: 0.8em;">Ayush Srivastava  <br/>(July 2022 - present)</span>
 
+<img src="images/members/Poornima.jpg" class="cropped-image"><br/>
+<span style="font-size: 0.8em;">Poornima Bhatia  <br/>(July 2023 - present)</span>
+
+<img src="images/members/Shataxi.jpg" class="cropped-image"><br/>
+<span style="font-size: 0.8em;">Shataxi Dubey  <br/>(July 2023 - present)</span>
+
+<img src="images/members/Prince.jpg" class="cropped-image"><br/>
+<span style="font-size: 0.8em;">Prince Kumar  <br/>(July 2023 - present)</span>
+
 :::
 
 #### BTech
