@@ -8,6 +8,9 @@ lightbox: auto
 
 Click on any picture to activate the "lightbox" mode. Use the arrow keys to navigate.
 
+## Dec 2023
+![15 December 2023 Prof. Mayank Goel (CMU) visit to our lab.](images/memories/Mayank_visit.jpg){group="my-gallery"}
+
 ## Nov 2023
 ![15 Nov 2023 Students working with us in the Fall 2023 semester.](images/memories/2023-Fall.jpg){group="my-gallery"}
 
