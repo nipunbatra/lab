@@ -9,49 +9,87 @@ lightbox: auto
 Click on any picture to activate the "lightbox" mode. Use the arrow keys to navigate.
 
 ## Dec 2023
-![15 December 2023 Prof. Mayank Goel (CMU) visit to our lab.](images/memories/Mayank_visit.jpg){group="my-gallery"}
+![](images/memories/Mayank_visit.jpg){group="my-gallery"
+description="[15 December 2023 Prof. Mayank Goel (CMU) visit to our lab.]{.class}"}
+
+[15 December 2023 Prof. Mayank Goel (CMU) visit to our lab.]{.class}
 
 ## Nov 2023
-![15 Nov 2023 Students working with us in the Fall 2023 semester.](images/memories/2023-Fall.jpg){group="my-gallery"}
+![](images/memories/2023-Fall.jpg){group="my-gallery"
+description="[15 Nov 2023 Students working with us in the Fall 2023 semester.]{.class}"}
+
+[15 Nov 2023 Students working with us in the Fall 2023 semester.]{.class}
 
 ## Oct 2023
-![Rishiraj was a finalist in the presitigous Gaetano Borriello Outstanding Student Award at ACM Ubicomp 2023](images/memories/rishiraj-award.jpeg){group="my-gallery"}
+![](images/memories/rishiraj-award.jpeg){group="my-gallery"
+description="[Rishiraj was a finalist in the presitigous Gaetano Borriello Outstanding Student Award at ACM Ubicomp 2023]{.class}"}
+
+[Rishiraj was a finalist in the presitigous Gaetano Borriello Outstanding Student Award at ACM Ubicomp 2023]{.class}
 
 ## Sept 2023
-![15 Sept 2023 Received the Young Alumni Award from IIIT Delhi.](images/memories/2023-Sept-Young_Alumni.jpg){group="my-gallery"}
+![](images/memories/2023-Sept-Young_Alumni.jpg){group="my-gallery"
+description="[15 Sept 2023 Received the Young Alumni Award from IIIT Delhi.]{.class}"}
+
+[15 Sept 2023 Received the Young Alumni Award from IIIT Delhi.]{.class}
 
 ## July 2023
-![July 2023 at the 2023 batch convocation (and celebration of multiple awards!)](images/memories/2023-July-all.jpg){group="my-gallery"}
+![](images/memories/2023-July-all.jpg){group="my-gallery"
+description="[July 2023 at the 2023 batch convocation (and celebration of multiple awards!)]{.class}"}
 
-![Ankita winning the Gold Medal for Outstanding Research](images/memories/ankita-gm-2-3.png){group="my-gallery"}
+[July 2023 at the 2023 batch convocation (and celebration of multiple awards!)]{.class}
+
+![](images/memories/ankita-gm-2-3.png){group="my-gallery"
+description="[Ankita winning the Gold Medal for Outstanding Research]{.class}"}
+
+[Ankita winning the Gold Medal for Outstanding Research]{.class}
 
 
 ## May 2023
-![May 2023 dinner](images/memories/2023-July.jpg){group="my-gallery"}
+![](images/memories/2023-July.jpg){group="my-gallery"
+description="[May 2023 dinner]{.class}"}
 
-![Batch of 2023 :Saagar, Aadesh, Xhitij, Nipun, Zeel (not batch of 2023), Ankita, Eshan, Hitarth, Gautam](images/memories/2023-group.jpg){group="my-gallery"}
+[May 2023 dinner]{.class}
 
-![Cake by batch of 2023](images/memories/2023-cake.jpg){group="my-gallery"}
+![](images/memories/2023-group.jpg){group="my-gallery"
+description="[Batch of 2023 :Saagar, Aadesh, Xhitij, Nipun, Zeel (not batch of 2023), Ankita, Eshan, Hitarth, Gautam]{.class}"}
 
+[Batch of 2023: Saagar, Aadesh, Xhitij, Nipun, Zeel (not batch of 2023), Ankita, Eshan, Hitarth, Gautam]{.class}
+
+![](images/memories/2023-cake.jpg){group="my-gallery"
+description="[Cake by batch of 2023]{.class}"}
+
+[Cake by batch of 2023]{.class}
 
 
 ## July 2022
 
-![With a subset of the batch of 2022 (Harsh, Hetvi, Nipun, Dhruvi, Palak)
-](images/memories/2022-group-subset.jpg){group="my-gallery"}
+![](images/memories/2022-group-subset.jpg){group="my-gallery"
+description="[With a subset of the batch of 2022 (Harsh, Hetvi, Nipun, Dhruvi, Palak)]{.class}"}
+
+[With a subset of the batch of 2022 (Harsh, Hetvi, Nipun, Dhruvi, Palak)]{.class}
 
 
 ## Dec 2021
 
-![Celebrating AAAI paper acceptance
-](images/memories/2021-AAAI.jpg){group="my-gallery"}
+![](images/memories/2021-AAAI.jpg){group="my-gallery"
+description="[Celebrating AAAI paper acceptance]{.class}"}
+
+[Celebrating AAAI paper acceptance]{.class}
 
 
 ## Nov 2021
 
-![Apoorv's "re" visit to the campus (others in frame: Rishiraj and Zeel)](images/memories/2021-Nov-Apoorv.jpg){group="my-gallery"}
+![](images/memories/2021-Nov-Apoorv.jpg){group="my-gallery"
+description="[Apoorv's \"re\" visit to the campus (others in frame: Rishiraj and Zeel)]{.class}"}
 
+[Apoorv's "re" visit to the campus (others in frame: Rishiraj and Zeel)]{.class}
 
+<style>
+   .class{
+      font-size: x-large ;
+      font-weight: bold ;
+   }
+</style>
 
 
 
