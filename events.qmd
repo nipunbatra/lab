@@ -8,4 +8,4 @@ In this page, we include the events that we have organized or co-organized.
 
 MEDFUSE: Medicine, Engineering, and Data Fusion for Health
 
-![](images/events/MEDFUSE.jpg)
+![](images/events/MEDFUSE_NEW.png)
