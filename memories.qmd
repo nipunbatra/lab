@@ -8,6 +8,12 @@ lightbox: auto
 
 Click on any picture to activate the "lightbox" mode. Use the arrow keys to navigate.
 
+## Jan 2024
+![](images/memories/2024-Jan.jpg){group="my-gallery"
+description="[Jan 2024 Alums from 2022 batch Harsh, Hetvi and Palak visited us]{.large-caption-text}"}
+
+[Jan 2024 Alums from 2022 batch Harsh, Hetvi and Palak visited us.]{.large-caption-text}
+
 ## Nov 2023
 ![](images/memories/2023-Fall.jpg){group="my-gallery"
 description="[15 Nov 2023 Students working with us in the Fall 2023 semester.]{.large-caption-text}"}
