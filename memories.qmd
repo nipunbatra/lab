@@ -9,7 +9,7 @@ lightbox: auto
 Click on any picture to activate the "lightbox" mode. Use the arrow keys to navigate.
 
 ## Jan 2024
-![](images/memories/2024-Jan.jpg){group="my-gallery"
+![](images/memories/2024-alum-visit.jpg){group="my-gallery"
 description="[Jan 2024 Alums from 2022 batch Harsh, Hetvi and Palak visited us]{.large-caption-text}"}
 
 [Jan 2024 Alums from 2022 batch Harsh, Hetvi and Palak visited us.]{.large-caption-text}
@@ -86,7 +86,7 @@ description="[Apoorv's \"re\" visit to the campus (others in frame: Rishiraj and
 
 <style>
    .large-caption-text{
-      font-size: x-large ;
+      font-size: large ;
       font-weight: bold ;
    }
 </style>
