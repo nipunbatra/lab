@@ -87,7 +87,6 @@ description="[Apoorv's \"re\" visit to the campus (others in frame: Rishiraj and
 <style>
    .large-caption-text{
       font-size: large ;
-      font-weight: bold ;
    }
 </style>
 
