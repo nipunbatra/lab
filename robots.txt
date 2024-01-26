@@ -1,1 +1,1 @@
-Sitemap: https://github.com/nipunbatra/lab/sitemap.xml
+Sitemap: https://nipunbatra.github.io/lab/sitemap.xml
