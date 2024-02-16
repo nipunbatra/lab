@@ -1,5 +1,5 @@
 ---
-title: "IITGn Blog"
+title: "Curiosity Opens New Doors"
 author: "Aabhas Senapati"
 date: "2024-2-15"
 ---
