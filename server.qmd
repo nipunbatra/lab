@@ -4,7 +4,30 @@ title: "Server Policy"
 
 We often use servers for some of our projects. This page is to document the policies we have for our servers.
 
+#### Servers
+1. Sustain
+
+| | |
+| -- | -- |
+| RAM | 192 GB (32 x 6) |
+| CPU | Intel(R) Xeon(R) Silver 4208 CPU @ 2.10GHz |
+| Number of CPUs | 16 |
+| GPU | NVIDIA TITAN Xp (12 GB) |
+| Number of GPUs | 1 |
+
+2. Ramanujan
+
+| | |
+| -- | -- |
+| RAM | 512 GB (32 x 16) |
+| CPU | AMD EPYC 7452 32-Core Processor |
+| Number of CPUs | 64 |
+| GPU | NVIDIA A100-SXM4 (80 GB) |
+| Number of GPUs | 4 |
+
 #### How to get access
+
+Send an email to Mr. [Raviraj Sukhadiya](raviraj.s@iitgn.ac.in), keeping Prof. [Nipun Batra](nipun.batra@iitgn.ac.in) in cc. Mention the following details in your request: i) server name; ii) purpose for access.
 
 #### Don'ts
 - Do not use the server for personal use or anything not related to the project. This includes any classwork or homework.
