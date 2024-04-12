@@ -10,11 +10,11 @@ I gave a talk ([recording here](https://www.youtube.com/watch?v=LoCoplWgvp4), [s
 #### LaTeXify figures
 We'd suggest using [this latexification tool](https://nipunbatra.github.io/lab/papers.html#latexify-figures) to make the `matplotlib` figures publication-ready. It helps in the following aspects:
 
-1. It helps in setting the exact size of the figure relative to the column width or page width of the paper. After using this tool, manually setting the size within `\begin{figure}` block is rarely needed.
-1. We can set the font size relative to the text font size in the paper to make sure fonts are not too small or too big.
+1. It helps in setting the exact size of the figure relative to the column width or page width of the paper. After using this tool, manually setting the size within the `\begin{figure}` block is rarely needed.
+1. We can set the font size relative to the text font size in the paper to ensure fonts are not too small or too big.
 1. It converts the fonts into latex fonts so that the fonts in the figures do not look different from the main text font.
 
-> Tip: You can find out page width and column width with `\the\textwidth and  `\the\columnwidth` commands respectively.
+> Tip: You can find page width and column width with `\the\textwidth` and  `\the\columnwidth` commands, respectively.
 
 #### Self-contained figures and tables (and captions)
 
