@@ -8,6 +8,13 @@ lightbox: auto
 
 Click on any picture to activate the "lightbox" mode. Use the arrow keys to navigate.
 
+## May 2024
+![](images/memories/batch24.jpg){group="my-gallery"
+description="[Batch of 2024]{.large-caption-text}"}
+
+![](images/memories/summer24.jpg){group="my-gallery"
+description="[Lab dinner May 2024]{.large-caption-text}"}
+
 ## Jan 2024
 ![](images/memories/2024-alum-visit.jpg){group="my-gallery"
 description="[Jan 2024 Alums from 2022 batch Harsh, Hetvi and Palak visited us]{.large-caption-text}"}
