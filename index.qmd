@@ -128,4 +128,5 @@ output:
 - Rohit Khoiwal (Summer 2022)
 - Anand Hegde (Summer 2022)
 - Shobhit Belwal (Summer 2022)
-- Aryan Varshney (Summer 2022) 
+- Aryan Varshney (Summer 2022)
+- Ami Ashish Buch (Summer 2024)
