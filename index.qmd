@@ -130,3 +130,4 @@ output:
 - Shobhit Belwal (Summer 2022)
 - Aryan Varshney (Summer 2022)
 - Ami Ashish Buch (Summer 2024)
+- Sajay Raj (Summer 2024)
