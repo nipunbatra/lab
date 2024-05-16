@@ -134,3 +134,4 @@ output:
 - Sajay Raj (Summer 2024)
 - Muhammad Zaid Hassan (Summer 2024)
 - Devodita Chakravarty (Summer 2024)
+- Omisha Guha (Summer 2024)
