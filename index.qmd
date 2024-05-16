@@ -133,3 +133,4 @@ output:
 - Ami Ashish Buch (Summer 2024)
 - Sajay Raj (Summer 2024)
 - Muhammad Zaid Hassan (Summer 2024)
+- Devodita Chakravarty (Summer 2024)
