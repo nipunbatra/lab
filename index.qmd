@@ -83,6 +83,7 @@ output:
 - Madhav Kanda (BTech 2024)
 - Aditi Agarwal (BTech 2024)
 - Utkarsh Mittal (BTech 2024)
+- Vannsh Jani (BTech 2026)
 
 :::
 
@@ -131,4 +132,5 @@ output:
 - Aryan Varshney (Summer 2022)
 - Ami Ashish Buch (Summer 2024)
 - Sajay Raj (Summer 2024)
+- Muhammad Zaid Hassan (Summer 2024)
 - Devodita Chakravarty (Summer 2024)
