@@ -135,3 +135,4 @@ output:
 - Muhammad Zaid Hassan (Summer 2024)
 - Devodita Chakravarty (Summer 2024)
 - Omisha Guha (Summer 2024)
+- Shiva Singh Bagri (Summer 2024)
