@@ -9,13 +9,13 @@ website:
       - href: index.qmd
         text: Team
       - href: experiences.qmd
-            text: Alumni Experiences
+        text: Alumni Experiences
       - href: memories.qmd
-            text: Group Pictures
+        text: Group Pictures
       - href: papers
-            text: Publications
+        text: Publications
       - href: events.qmd
-            text: Events
+        text: Events
       - section: Lab Notebook
         contents:
           - href: values.qmd
