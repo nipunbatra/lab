@@ -345,35 +345,15 @@
     ]
   },
   {
-    "objectID": "lor.html",
-    "href": "lor.html",
-    "title": "Letter of Recommendations",
+    "objectID": "posters.html",
+    "href": "posters.html",
+    "title": "Posters",
     "section": "",
-    "text": "How to ask for LOR article by Gautam Kamath",
+    "text": "In some venues, the main presentation format is a poster. Posters are a great way to present your work in a visual format, and to have one-on-one conversations with people who are interested in your work.\nOne common mistake people make while making posters is to try to cram in too much information. Remember that the poster is to supplement you and not to replace you.\nPlease see below for two posters that we have made in the past.\n\n\nPlease find the presentation files corresponding to the first poster 1. Apple Keynote\n\nMS Powerpoint\nGoogle Slides\n\nLaTeX users can use the following templates on Overleaf to make their posters.",
     "crumbs": [
       "Lab Notebook",
-      "Letters of Recommendation"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Group",
-    "section": "",
-    "text": "Current\n\nPhD\n\n\n\n\n\n\n   Rishiraj Adhikary (July 2019 - present)\n\n\n   Zeel Patel (Jan 2020 - present)\n\n\n   Rishabh Mondal  (June 2023 - present)\n\n\n   Khush Shah  (July 2023 - present)\n\n\n\n\n\n\nMTech\n\n\n\n\n\n\n   Suraj Jaiswal (July 2022 - present)\n\n\n Ayush Srivastava (July 2022 - present)\n\n\n Poornima Bhatia (July 2023 - present)\n\n\n Shataxi Dubey (July 2023 - present)\n\n\n Prince Kumar (July 2023 - present)\n\n\n\n\n\nBTech\n\n\n\n\n\n\n\nDhruv Patel (BTech 2024)\nHaikoo Khandor (BTech 2024)\nProgyan Das (BTech 2024)\nMadhav Kanda (BTech 2024)\nAditi Agarwal (BTech 2024)\nUtkarsh Mittal (BTech 2024)\nVannsh Jani (BTech 2026)\n\n\n\n\n\n\n\nAlumni\n\nBTech\n\nAadesh Desai (BTech 2023): MS at CMU\nEshan Gujarathi (BTech 2023): Predoc at IIT Madras\nGautam Vasistha (BTech 2023): Data Scientist as Skan.AI\nHitarth Gandhi (BTech 2023): MS at UC Irvine\nSaagar Parikh (BTech 2023): MS at CMU\nXhitij Choudhary (BTech 2023): Data Scientist at Skan.AI\nChris Francis (BTech 2022): MS at UCSD\nDhruvi Lodhavia (BTech 2022): MS at UCSD\nHetvi Shastri (BTech 2022): PhD at UMass Amherst\nHarsh Patel (BTech 2022): MS at UCSD\nPalak Purohit (BTech 2022): MS at Caltech\nShivam Sahni (BTech 2022): MS at UCSD\nApoorv Agnihotri (BTech 2020): First job at Wadhwani AI -&gt; Data Scientist at Rephrase.ai\nDeepak Narayanan (BTech 2020): First job at Microsoft Research India -&gt; MS at ETH Zurich\nKukunuri Rithwik (BTech 2020): First job at Jio -&gt; Data Scientist at Nykaa\nSoham Pachpande (BTech 2020): First job at HSBC-&gt; MS at UCSD -&gt; SWE at Salesforce\n\n\n\nMTech\n\nAnkita Jain (MTech 2022): First job at Oracle\nKaran Kumar (MTech 2020): First job at Trading Technologies\nSouvik Roy (MTech 2020): First job at eClerx\n\n\n\nResearch Assistant\n\nKaushal Modi: Now a data scientist at InfiBeam\nPrerna Khanna: Now a PhD student at Stony Brook\nTanmay Srivastava: Now a PhD student at Stony Brook\nRohit Patil: First job at Publicis Sapient\n\n\n\n\nOutside IITGn Interns\n\nVibhuti Bansal (Summer 2022): Now at CRED\nRohit Khoiwal (Summer 2022)\nAnand Hegde (Summer 2022)\nShobhit Belwal (Summer 2022)\nAryan Varshney (Summer 2022)\nAmi Ashish Buch (Summer 2024)\nSajay Raj (Summer 2024)\nMuhammad Zaid Hassan (Summer 2024)\nDevodita Chakravarty (Summer 2024)\nOmisha Guha (Summer 2024)",
-    "crumbs": [
-      "Team"
-    ]
-  },
-  {
-    "objectID": "technical-background.html",
-    "href": "technical-background.html",
-    "title": "Technical Background",
-    "section": "",
-    "text": "Git and GitHub\nThere are a ton of good resorces on Git and Github. I’m linking two such resources here: - YouTube video by Kevin Stratvert - Github skills\n\n\nPython Data Science Stack\n\nWe recommend students to study the Python for Data Science Handbook by Jake VanderPlas. It is a free online book that covers the basics of Python, NumPy, Pandas, Matplotlib, and Scikit-Learn. It is a great resource for beginners and intermediate students alike.\nWe recommend students regularly hone their skills solving exercises such as 100 Numpy exercises. Given that much of our work is in Torch-like frameworks, the students would also benefit by attempting to solve the exercises using PyTorch.\n\n\n\nObject-Oriented Programming in Python\nRealPython has a nice tutorial on Object-Oriented Programming in Python. We recommend students to go through the tutorial. They also have a corresponding video page.\n\n\nLaTeX\nWe typically use LaTeX for writing reports and papers. We recommend students to use Overleaf for students to get started. Overleaf has a nice 30 minute tutorial that covers the basics of LaTeX. We highly recommend students to go through the tutorial.\n\n\nCreating a Website and Blog\nWe highly recommend students create a simple website and a blog. We have been happily using Quarto for our website and blog. You may see in action in Nipun’s website and corresponding GitHub repo here; and Nipun’s blog and corresponding Github repo here.\nBoth of these are built via Github actions. Feel free to reuse these for creating your own website and blog. We will be happy to help you get started.",
-    "crumbs": [
-      "Lab Notebook",
-      "Technical Background"
+      "Communicating Research",
+      "Posters"
     ]
   },
   {
@@ -388,20 +368,8 @@
     ]
   },
   {
-    "objectID": "posters.html",
-    "href": "posters.html",
-    "title": "Posters",
-    "section": "",
-    "text": "In some venues, the main presentation format is a poster. Posters are a great way to present your work in a visual format, and to have one-on-one conversations with people who are interested in your work.\nOne common mistake people make while making posters is to try to cram in too much information. Remember that the poster is to supplement you and not to replace you.\nPlease see below for two posters that we have made in the past.\n\n\nPlease find the presentation files corresponding to the first poster 1. Apple Keynote\n\nMS Powerpoint\nGoogle Slides\n\nLaTeX users can use the following templates on Overleaf to make their posters.",
-    "crumbs": [
-      "Lab Notebook",
-      "Communicating Research",
-      "Posters"
-    ]
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
+    "objectID": "writing-papers.html",
+    "href": "writing-papers.html",
     "title": "Writing Papers",
     "section": "",
     "text": "Paper writing is a key part of research. This page contains some tips and tricks for writing papers. Paper writing is a skill that you will develop over time. But, it needs deliberate practice.\n\nPaper structure and Abstract\nI gave a talk (recording here, slides here) on how to write a paper. I recommend watching it. Other materials from the talk are available here.\n\n\nLaTeXify figures\nWe’d suggest using this latexification tool to make the matplotlib figures publication-ready. It helps in the following aspects:\n\nIt helps in setting the exact size of the figure relative to the column width or page width of the paper. After using this tool, manually setting the size within the \\begin{figure} block is rarely needed.\nWe can set the font size relative to the text font size in the paper to ensure fonts are not too small or too big.\nIt converts the fonts into latex fonts so that the fonts in the figures do not look different from the main text font.\n\n\nTip: You can find page width and column width with \\the\\textwidth and \\the\\columnwidth commands, respectively.\n\n\n\nSelf-contained figures and tables (and captions)\n\n\nTables\nWe follow this excellent small guide to making nice tables by Markus Püschel.\n\n\nComments in LaTeX\nWe typically create a macro corresponding to different author initials (I use \\nb for example) and then use that to create comments in the text. This is useful for commenting on the text, or for leaving notes to yourself. For example, I might write \\nb{I'm not sure about this sentence} and then I can search for all instances of \\nb to find all of my comments.\n\\newcommand{\\nb}[1]{{\\color{red}\\small \\iftoggle{hide}{}{\\textbf{Nipun's comment:} #1}}}\n\n\nActive v/s Passive Voice\n\n\nAmerican v/s British English\nThere are a few differences in spelling between American and British English. For example, the word “colour” in British English is spelled “color” in American English. The word “optimise” in British English is spelled “optimize” in American English. There are also some differences in grammar. I recommend picking one and sticking to it. Most of our previous papers have used British English (but often this depends on the set of co-authors).\n\n\nPaper timelines\n\n\nGrammarly and other AI tools\nI recommend students use Grammarly (or a similar) tool to check their writing once they have done a complete pass of editing. I do not recommend relying a lot on ChatGPT-like tools for writing papers as they can often lead to “correct” sounding but “incorrect” sentences.",
@@ -409,6 +377,38 @@
       "Lab Notebook",
       "Communicating Research",
       "Papers"
+    ]
+  },
+  {
+    "objectID": "technical-background.html",
+    "href": "technical-background.html",
+    "title": "Technical Background",
+    "section": "",
+    "text": "Git and GitHub\nThere are a ton of good resorces on Git and Github. I’m linking two such resources here: - YouTube video by Kevin Stratvert - Github skills\n\n\nPython Data Science Stack\n\nWe recommend students to study the Python for Data Science Handbook by Jake VanderPlas. It is a free online book that covers the basics of Python, NumPy, Pandas, Matplotlib, and Scikit-Learn. It is a great resource for beginners and intermediate students alike.\nWe recommend students regularly hone their skills solving exercises such as 100 Numpy exercises. Given that much of our work is in Torch-like frameworks, the students would also benefit by attempting to solve the exercises using PyTorch.\n\n\n\nObject-Oriented Programming in Python\nRealPython has a nice tutorial on Object-Oriented Programming in Python. We recommend students to go through the tutorial. They also have a corresponding video page.\n\n\nLaTeX\nWe typically use LaTeX for writing reports and papers. We recommend students to use Overleaf for students to get started. Overleaf has a nice 30 minute tutorial that covers the basics of LaTeX. We highly recommend students to go through the tutorial.\n\n\nCreating a Website and Blog\nWe highly recommend students create a simple website and a blog. We have been happily using Quarto for our website and blog. You may see in action in Nipun’s website and corresponding GitHub repo here; and Nipun’s blog and corresponding Github repo here.\nBoth of these are built via Github actions. Feel free to reuse these for creating your own website and blog. We will be happy to help you get started.",
+    "crumbs": [
+      "Lab Notebook",
+      "Technical Background"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Group",
+    "section": "",
+    "text": "Current\n\nPhD\n\n\n\n\n\n\n   Rishiraj Adhikary (July 2019 - present)\n\n\n   Zeel Patel (Jan 2020 - present)\n\n\n   Rishabh Mondal  (June 2023 - present)\n\n\n   Khush Shah  (July 2023 - present)\n\n\n\n\n\n\nMTech\n\n\n\n\n\n\n   Suraj Jaiswal (July 2022 - present)\n\n\n Ayush Srivastava (July 2022 - present)\n\n\n Poornima Bhatia (July 2023 - present)\n\n\n Shataxi Dubey (July 2023 - present)\n\n\n Prince Kumar (July 2023 - present)\n\n\n\n\n\nBTech\n\n\n\n\n\n\n\nDhruv Patel (BTech 2024)\nHaikoo Khandor (BTech 2024)\nProgyan Das (BTech 2024)\nMadhav Kanda (BTech 2024)\nAditi Agarwal (BTech 2024)\nUtkarsh Mittal (BTech 2024)\nVannsh Jani (BTech 2026)\n\n\n\n\n\n\n\nAlumni\n\nBTech\n\nAadesh Desai (BTech 2023): MS at CMU\nEshan Gujarathi (BTech 2023): Predoc at IIT Madras\nGautam Vasistha (BTech 2023): Data Scientist as Skan.AI\nHitarth Gandhi (BTech 2023): MS at UC Irvine\nSaagar Parikh (BTech 2023): MS at CMU\nXhitij Choudhary (BTech 2023): Data Scientist at Skan.AI\nChris Francis (BTech 2022): MS at UCSD\nDhruvi Lodhavia (BTech 2022): MS at UCSD\nHetvi Shastri (BTech 2022): PhD at UMass Amherst\nHarsh Patel (BTech 2022): MS at UCSD\nPalak Purohit (BTech 2022): MS at Caltech\nShivam Sahni (BTech 2022): MS at UCSD\nApoorv Agnihotri (BTech 2020): First job at Wadhwani AI -&gt; Data Scientist at Rephrase.ai\nDeepak Narayanan (BTech 2020): First job at Microsoft Research India -&gt; MS at ETH Zurich\nKukunuri Rithwik (BTech 2020): First job at Jio -&gt; Data Scientist at Nykaa\nSoham Pachpande (BTech 2020): First job at HSBC-&gt; MS at UCSD -&gt; SWE at Salesforce\n\n\n\nMTech\n\nAnkita Jain (MTech 2022): First job at Oracle\nKaran Kumar (MTech 2020): First job at Trading Technologies\nSouvik Roy (MTech 2020): First job at eClerx\n\n\n\nResearch Assistant\n\nKaushal Modi: Now a data scientist at InfiBeam\nPrerna Khanna: Now a PhD student at Stony Brook\nTanmay Srivastava: Now a PhD student at Stony Brook\nRohit Patil: First job at Publicis Sapient\n\n\n\n\nOutside IITGn Interns\n\nVibhuti Bansal (Summer 2022): Now at CRED\nRohit Khoiwal (Summer 2022)\nAnand Hegde (Summer 2022)\nShobhit Belwal (Summer 2022)\nAryan Varshney (Summer 2022)\nAmi Ashish Buch (Summer 2024)\nSajay Raj (Summer 2024)\nMuhammad Zaid Hassan (Summer 2024)\nDevodita Chakravarty (Summer 2024)\nOmisha Guha (Summer 2024)",
+    "crumbs": [
+      "Team"
+    ]
+  },
+  {
+    "objectID": "lor.html",
+    "href": "lor.html",
+    "title": "Letter of Recommendations",
+    "section": "",
+    "text": "How to ask for LOR article by Gautam Kamath",
+    "crumbs": [
+      "Lab Notebook",
+      "Letters of Recommendation"
     ]
   },
   {
