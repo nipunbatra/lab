@@ -24,7 +24,7 @@ website:
             text: Expectations
           - section: Communicating Research
             contents:
-              - href: papers.qmd
+              - href: writing-papers.qmd
                 text: Papers
               - href: posters.qmd
                 text: Posters
