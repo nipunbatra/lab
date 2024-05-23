@@ -7,13 +7,19 @@ website:
   sidebar:
     contents:
       - href: index.qmd
-        text: Home
+        text: Team
+      - href: experiences.qmd
+            text: Alumni Experiences
+      - href: memories.qmd
+            text: Group Pictures
+      - href: papers
+            text: Publications
+      - href: events.qmd
+            text: Events
       - section: Lab Notebook
         contents:
           - href: values.qmd
             text: Values
-          - href: experiences.qmd
-            text: Alumni Experiences
           - href: expectations.qmd
             text: Expectations
           - section: Communicating Research
@@ -33,13 +39,10 @@ website:
           - href: lor.qmd
             text: Letters of Recommendation
           - href: server.qmd
-            text: Server Policy
-          - href: memories.qmd
-            text: Group Pictures
+            text: Server Policy 
           - href: reading.qmd
             text: Reading Group
-          - href: events.qmd
-            text: Events
+          
 format:
   html:
     theme:
