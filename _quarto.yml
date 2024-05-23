@@ -7,6 +7,8 @@ website:
   sidebar:
     contents:
       - href: index.qmd
+        text: Home
+      - href: members.qmd
         text: Team
       - href: experiences.qmd
         text: Alumni Experiences
