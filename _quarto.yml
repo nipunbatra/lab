@@ -22,6 +22,8 @@ website:
         text: Reading Group
       - href: news.qmd
         text: News
+      - href: computational-resources.qmd
+        text: Computational Resources
       - section: Lab Notebook
         contents:
           - href: values.qmd
