@@ -1,0 +1,31 @@
+.paper {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .paper-image {
+    width: 20%;
+    margin-right: 20px;
+  }
+  
+  .paper-details {
+    width: 80%;
+  }
+  
+  .paper-title {
+    color: #2E86C1; /* Change this to your desired color */
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px 0;
+    background-color: #2E86C1; /* Change this to your desired button color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #21618C;
+  }
