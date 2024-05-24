@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
-@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap';
 
-$font-family: "Roboto", sans-serif;
-$font-family-serif: "Roboto", sans-serif;
+$font-family: "Nunito", sans-serif;
+$font-family-serif: "Nunito", sans-serif;
 
 /*-- scss:rules --*/
 kbd,
@@ -14,4 +14,10 @@ kbd,
 .navbar {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
+    font-family: $font-family;
+}
+
+/* Apply the font-family to body to ensure all text uses Nunito */
+body {
+    font-family: $font-family;
 }
