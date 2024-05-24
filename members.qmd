@@ -12,7 +12,7 @@ output:
 <a href="https://nipunbatra.github.io">
   <img src="https://nipunbatra.github.io/images/nipun.jpg" class="cropped-image"><br/>
 </a>
-<span style="font-size: 0.8em;">Rishiraj Adhikary</span>
+<span style="font-size: 0.8em;">Nipun Batra</span>
 
 
 #### PhD 
