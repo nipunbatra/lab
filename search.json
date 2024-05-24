@@ -243,6 +243,125 @@
     ]
   },
   {
+    "objectID": "server.html",
+    "href": "server.html",
+    "title": "Server Policy",
+    "section": "",
+    "text": "We often use servers for some of our projects. This page is to document the policies we have for our servers.\n\nServers\n\nSustain\n\n\n\n\nRAM\n192 GB (32 x 6)\n\n\nCPU\nIntel(R) Xeon(R) Silver 4208 CPU @ 2.10GHz\n\n\nNumber of CPUs\n16\n\n\nGPU\nNVIDIA TITAN Xp (12 GB)\n\n\nNumber of GPUs\n1\n\n\n\n\nRamanujan\n\n\n\n\nRAM\n512 GB (32 x 16)\n\n\nCPU\nAMD EPYC 7452 32-Core Processor\n\n\nNumber of CPUs\n64\n\n\nGPU\nNVIDIA A100-SXM4 (80 GB)\n\n\nNumber of GPUs\n4\n\n\n\n\n\nHow to get access\nSend an email to Mr. Raviraj Sukhadiya, keeping Prof. Nipun Batra in cc. Mention the following details in your request: i) server name; ii) purpose for access.\n\n\nDon’ts\n\nDo not use the server for personal use or anything not related to the project. This includes any classwork or homework.\nDo not share your server credentials with anyone else.\n\n\n\nFair usage\n\nSometimes we have multiple projects running on the same server. Please be considerate of other projects and do not use up all the resources.\nSometimes we may allocate specific cores or GPUs to specific projects. Please do not use cores or GPUs that are not allocated to your project.",
+    "crumbs": [
+      "Lab Notebook",
+      "Server Policy"
+    ]
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "In this page, we include the events that we have organized or co-organized.",
+    "crumbs": [
+      "Events"
+    ]
+  },
+  {
+    "objectID": "events.html#section",
+    "href": "events.html#section",
+    "title": "Events",
+    "section": "2023",
+    "text": "2023\nMEDFUSE: Medicine, Engineering, and Data Fusion for Health",
+    "crumbs": [
+      "Events"
+    ]
+  },
+  {
+    "objectID": "lor.html",
+    "href": "lor.html",
+    "title": "Letter of Recommendations",
+    "section": "",
+    "text": "How to ask for LOR article by Gautam Kamath",
+    "crumbs": [
+      "Lab Notebook",
+      "Letters of Recommendation"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sustainability Lab",
+    "section": "",
+    "text": "Sustainability lab develops sensing and machine learning solutions for various sustainability challenges.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "technical-background.html",
+    "href": "technical-background.html",
+    "title": "Technical Background",
+    "section": "",
+    "text": "Git and GitHub\nThere are a ton of good resorces on Git and Github. I’m linking two such resources here: - YouTube video by Kevin Stratvert - Github skills\n\n\nPython Data Science Stack\n\nWe recommend students to study the Python for Data Science Handbook by Jake VanderPlas. It is a free online book that covers the basics of Python, NumPy, Pandas, Matplotlib, and Scikit-Learn. It is a great resource for beginners and intermediate students alike.\nWe recommend students regularly hone their skills solving exercises such as 100 Numpy exercises. Given that much of our work is in Torch-like frameworks, the students would also benefit by attempting to solve the exercises using PyTorch.\n\n\n\nObject-Oriented Programming in Python\nRealPython has a nice tutorial on Object-Oriented Programming in Python. We recommend students to go through the tutorial. They also have a corresponding video page.\n\n\nLaTeX\nWe typically use LaTeX for writing reports and papers. We recommend students to use Overleaf for students to get started. Overleaf has a nice 30 minute tutorial that covers the basics of LaTeX. We highly recommend students to go through the tutorial.\n\n\nCreating a Website and Blog\nWe highly recommend students create a simple website and a blog. We have been happily using Quarto for our website and blog. You may see in action in Nipun’s website and corresponding GitHub repo here; and Nipun’s blog and corresponding Github repo here.\nBoth of these are built via Github actions. Feel free to reuse these for creating your own website and blog. We will be happy to help you get started.",
+    "crumbs": [
+      "Lab Notebook",
+      "Technical Background"
+    ]
+  },
+  {
+    "objectID": "writing-papers.html",
+    "href": "writing-papers.html",
+    "title": "Writing Papers",
+    "section": "",
+    "text": "Paper writing is a key part of research. This page contains some tips and tricks for writing papers. Paper writing is a skill that you will develop over time. But, it needs deliberate practice.\n\nPaper structure and Abstract\nI gave a talk (recording here, slides here) on how to write a paper. I recommend watching it. Other materials from the talk are available here.\n\n\nLaTeXify figures\nWe’d suggest using this latexification tool to make the matplotlib figures publication-ready. It helps in the following aspects:\n\nIt helps in setting the exact size of the figure relative to the column width or page width of the paper. After using this tool, manually setting the size within the \\begin{figure} block is rarely needed.\nWe can set the font size relative to the text font size in the paper to ensure fonts are not too small or too big.\nIt converts the fonts into latex fonts so that the fonts in the figures do not look different from the main text font.\n\n\nTip: You can find page width and column width with \\the\\textwidth and \\the\\columnwidth commands, respectively.\n\n\n\nSelf-contained figures and tables (and captions)\n\n\nTables\nWe follow this excellent small guide to making nice tables by Markus Püschel.\n\n\nComments in LaTeX\nWe typically create a macro corresponding to different author initials (I use \\nb for example) and then use that to create comments in the text. This is useful for commenting on the text, or for leaving notes to yourself. For example, I might write \\nb{I'm not sure about this sentence} and then I can search for all instances of \\nb to find all of my comments.\n\\newcommand{\\nb}[1]{{\\color{red}\\small \\iftoggle{hide}{}{\\textbf{Nipun's comment:} #1}}}\n\n\nActive v/s Passive Voice\n\n\nAmerican v/s British English\nThere are a few differences in spelling between American and British English. For example, the word “colour” in British English is spelled “color” in American English. The word “optimise” in British English is spelled “optimize” in American English. There are also some differences in grammar. I recommend picking one and sticking to it. Most of our previous papers have used British English (but often this depends on the set of co-authors).\n\n\nPaper timelines\n\n\nGrammarly and other AI tools\nI recommend students use Grammarly (or a similar) tool to check their writing once they have done a complete pass of editing. I do not recommend relying a lot on ChatGPT-like tools for writing papers as they can often lead to “correct” sounding but “incorrect” sentences.",
+    "crumbs": [
+      "Lab Notebook",
+      "Communicating Research",
+      "Papers"
+    ]
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Group",
+    "section": "",
+    "text": "Current\n\nPhD\n\n\n\n\n\n\n   Rishiraj Adhikary (July 2019 - present)\n\n\n   Zeel Patel (Jan 2020 - present)\n\n\n   Rishabh Mondal  (June 2023 - present)\n\n\n   Khush Shah  (July 2023 - present)\n\n\n\n\n\n\nMTech\n\n\n\n\n\n\n   Suraj Jaiswal (July 2022 - present)\n\n\n Ayush Srivastava (July 2022 - present)\n\n\n Poornima Bhatia (July 2023 - present)\n\n\n Shataxi Dubey (July 2023 - present)\n\n\n Prince Kumar (July 2023 - present)\n\n\n\n\n\nBTech\n\n\n\n\n\n\n\nDhruv Patel (BTech 2024)\nHaikoo Khandor (BTech 2024)\nProgyan Das (BTech 2024)\nMadhav Kanda (BTech 2024)\nAditi Agarwal (BTech 2024)\nUtkarsh Mittal (BTech 2024)\nVannsh Jani (BTech 2026)\n\n\n\n\n\n\n\nAlumni\n\nBTech\n\nAadesh Desai (BTech 2023): MS at CMU\nEshan Gujarathi (BTech 2023): Predoc at IIT Madras\nGautam Vasistha (BTech 2023): Data Scientist as Skan.AI\nHitarth Gandhi (BTech 2023): MS at UC Irvine\nSaagar Parikh (BTech 2023): MS at CMU\nXhitij Choudhary (BTech 2023): Data Scientist at Skan.AI\nChris Francis (BTech 2022): MS at UCSD\nDhruvi Lodhavia (BTech 2022): MS at UCSD\nHetvi Shastri (BTech 2022): PhD at UMass Amherst\nHarsh Patel (BTech 2022): MS at UCSD\nPalak Purohit (BTech 2022): MS at Caltech\nShivam Sahni (BTech 2022): MS at UCSD\nApoorv Agnihotri (BTech 2020): First job at Wadhwani AI -&gt; Data Scientist at Rephrase.ai\nDeepak Narayanan (BTech 2020): First job at Microsoft Research India -&gt; MS at ETH Zurich\nKukunuri Rithwik (BTech 2020): First job at Jio -&gt; Data Scientist at Nykaa\nSoham Pachpande (BTech 2020): First job at HSBC-&gt; MS at UCSD -&gt; SWE at Salesforce\n\n\n\nMTech\n\nAnkita Jain (MTech 2022): First job at Oracle\nKaran Kumar (MTech 2020): First job at Trading Technologies\nSouvik Roy (MTech 2020): First job at eClerx\n\n\n\nResearch Assistant\n\nKaushal Modi: Now a data scientist at InfiBeam\nPrerna Khanna: Now a PhD student at Stony Brook\nTanmay Srivastava: Now a PhD student at Stony Brook\nRohit Patil: First job at Publicis Sapient\n\n\n\n\nOutside IITGn Interns\n\nVibhuti Bansal (Summer 2022): Now at CRED\nRohit Khoiwal (Summer 2022)\nAnand Hegde (Summer 2022)\nShobhit Belwal (Summer 2022)\nAryan Varshney (Summer 2022)\nAmi Ashish Buch (Summer 2024)\nSajay Raj (Summer 2024)\nMuhammad Zaid Hassan (Summer 2024)\nDevodita Chakravarty (Summer 2024)\nOmisha Guha (Summer 2024)",
+    "crumbs": [
+      "Team"
+    ]
+  },
+  {
+    "objectID": "values.html",
+    "href": "values.html",
+    "title": "Values",
+    "section": "",
+    "text": "Less but better: Publish one less paper, but make the ones you publish really strong. Show one less result in the meeting, but thoroughly analyse the ones you show.",
+    "crumbs": [
+      "Lab Notebook",
+      "Values"
+    ]
+  },
+  {
+    "objectID": "posters.html",
+    "href": "posters.html",
+    "title": "Posters",
+    "section": "",
+    "text": "In some venues, the main presentation format is a poster. Posters are a great way to present your work in a visual format, and to have one-on-one conversations with people who are interested in your work.\nOne common mistake people make while making posters is to try to cram in too much information. Remember that the poster is to supplement you and not to replace you.\nPlease see below for two posters that we have made in the past.\n\n\nPlease find the presentation files corresponding to the first poster 1. Apple Keynote\n\nMS Powerpoint\nGoogle Slides\n\nLaTeX users can use the following templates on Overleaf to make their posters.",
+    "crumbs": [
+      "Lab Notebook",
+      "Communicating Research",
+      "Posters"
+    ]
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "Expectations",
+    "section": "",
+    "text": "Hard work: We are often working on cutting-edge research. This means that there is no clear path to success. We will have to try different things, and we will fail often. This is part of the process. I expect my students to work hard, and I expect them to be resilient.\nConsistency: We do expect some seasonal variation in productivity. However, often the difference between a good and great project is the consistency of effort.\nStriving for excellence: Often, the difference between a good and great project (or paper) is the last 10% of effort. I try to push my students to go the extra mile, and I expect the same from myself. This goes in various aspects of work, including writing, coding, and data analysis. As an example, I remember doing ten rounds of feedback with an undergraduate student from the group on their presentation for a conference. It was a lot of work, but the student ended up getting offers (higher studies) after the talk; and the student was appreciated by the session chair - “It is hard to believe that you are an undergraduate student”.\nClear, honest communication I try to be as clear as possible in my communication, and I expect the same from my students. I also expect my students to be honest with me. If you are struggling with something, let me know. If you are not interested in a project, let me know. If you are not happy with something, let me know. I you are unable to meet a deadline, let me know. Lack of communication is counterproductive.\nI also typically want to help create a path for my students to achieve their goals. Thus, I expect my students to be clear about their goals, or be proactive in discussing their goals with me.\nCulture of respect and collaboration: I expect my students to be respectful to each other, and to other members of the community. I also expect my students to be collaborative. This means that they should be willing to help each other, and to help other members of the community.",
+    "crumbs": [
+      "Lab Notebook",
+      "Expectations"
+    ]
+  },
+  {
     "objectID": "papers/index.html",
     "href": "papers/index.html",
     "title": "Publications",
@@ -334,122 +453,13 @@
     "text": "2013 and before\n\nIt’s Different: Insights into home energy consumption in India\nNipun Batra, Manoj Gulati, Amarjeet Singh, Mani Srivastava.\nIn: 5th ACM Workshop On Embedded Systems For Energy-Efficient Buildings (Buildsys 2013)[PDF][Github][Dataset][Slides (.pptx)][Slides (.pdf)]\n\n\nINDiC: Improved Non-Intrusive load monitoring using load Division and Calibration\nNipun Batra, Haimonti Dutta, Amarjeet Singh\nIn: ICMLA 2013[PDF][Slides (.pptx)][Slides (.pdf)]\n\n\nExperiences with Occupancy Based Building Management Systems\nNipun Batra, Pandarasamy Arjunan, Amarjeet Singh, Pushpendra Singh\nIn: ISSNIP 2013[PDF]\n\n\nSensorAct: A Privacy and Security Aware Federated Middleware for Building Management\nPandarasamy Arjunan, Nipun Batra, Haksoo Choi, Amarjeet Singh, Pushpendra Singh, Mani Srivastava\nIn: Buildsys 2012[PDF]"
   },
   {
-    "objectID": "expectations.html",
-    "href": "expectations.html",
-    "title": "Expectations",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
     "section": "",
-    "text": "Hard work: We are often working on cutting-edge research. This means that there is no clear path to success. We will have to try different things, and we will fail often. This is part of the process. I expect my students to work hard, and I expect them to be resilient.\nConsistency: We do expect some seasonal variation in productivity. However, often the difference between a good and great project is the consistency of effort.\nStriving for excellence: Often, the difference between a good and great project (or paper) is the last 10% of effort. I try to push my students to go the extra mile, and I expect the same from myself. This goes in various aspects of work, including writing, coding, and data analysis. As an example, I remember doing ten rounds of feedback with an undergraduate student from the group on their presentation for a conference. It was a lot of work, but the student ended up getting offers (higher studies) after the talk; and the student was appreciated by the session chair - “It is hard to believe that you are an undergraduate student”.\nClear, honest communication I try to be as clear as possible in my communication, and I expect the same from my students. I also expect my students to be honest with me. If you are struggling with something, let me know. If you are not interested in a project, let me know. If you are not happy with something, let me know. I you are unable to meet a deadline, let me know. Lack of communication is counterproductive.\nI also typically want to help create a path for my students to achieve their goals. Thus, I expect my students to be clear about their goals, or be proactive in discussing their goals with me.\nCulture of respect and collaboration: I expect my students to be respectful to each other, and to other members of the community. I also expect my students to be collaborative. This means that they should be willing to help each other, and to help other members of the community.",
+    "text": "Dec 2021: Our AAAI 2022 paper on Accurate and Scalable Non-Stationary GPs gets accepted to AAAI 2022 :)\nNov 2021: Received a 5000 USD cloud credit grant from Google Research\nOct 2021: Rishiraj gets the prestigious USIEF Fullbright Fellowship\nOct 2021: Rishiraj wins the prestigious PMRF fellowship!\nSep 2021: Notes paper on adding neural network approaches to NILMTK-contrib accepted at Buildsys 2021\nSep 2021: Explainable on HMMs accepted to IEEE VisxAI workshop Link\nAug 2021: Teaching a course on Ubiquitous computing this semester Link\nMay 2021: Completed the ML course this semester with feedback 3.83/4 :)\nJan 2021: Completed the Introduction to Programming course this semester with feedback 3.73/4 :)\nFeb 2021: Serving as the publication chair for CODS-COMAD 2022\nDec 2020: Our paper on understanding air quality perceptions from social media accepted at ACM CSCW :)\nNov 2020: Got a grant from CISCO on edge non-intrusive load monitoring\nOct 2020: Got a grant from SERB on AI and sensor networks for air quality\nSep 2020: Got a grant from Google on COVID and air quality linkages\nMay 2020: Our Distill article on Bayesian Optimization got accepted\nFeb 2020: Organised a faculty development program on data science and analytics under the aegis of TEQIP (Pic with the group)\nFeb 2020: CSE@IITGN organised ACM India annual event. (Pic with Yann LeCun (Turing award), Shwetak Patel (ACM Compute Prize))\nJan 2020: Members of our lab attended and presented four posters at CODS COMAD 2020\nNov 2019: Spoke at INS Valsura on Machine Learning. Honoured to speak in front of officers from Indian Navy, Army and Air Force\nNov 2019: Gave a talk about our energy dis-aggregation work at ACM Buildsys 2019 in NYC!\nNov 2019: Gave a talk about our air quality work at Google, Bangalore\nApr 2019: Giving a talk on Computational Sustainability at Nirma University.\nMar 2019: Giving a talk on Computational Sustainability at ROCS 2019.\nJan 2019: Paper accepted in WWW! Details soon on Publications page.\nJan 2019: Teaching machine learning this semester. Class URL\nNov 2018: Haroon presented our paper in Buildsys 18!\nNov 2018: Awarded an Microsoft AI for Earth grant worth $15000 in Azure credits\nAug 2018: Took a research methods for CS bootcamp at IITGN. Slides,Youtube\nJuly 2018: Received a Titan XP GPU from NVidia via their grant program. Thanks, NVidia!\nJuly 2018: Teaching operating systems in the current semester at IITGN\nJuly 2018: Joined CSE at IITGN as an Assistant Professor\nJune 2018: Completed my postdoc at UVa. Been great working with Kamin, Hongning, and Yiling!\nFeb 2018: I’m presenting our work at AAAI in New Orleans\nNov 2017: I’m presenting our work on scalable energy breakdown at NSF CPS meeting",
     "crumbs": [
-      "Lab Notebook",
-      "Expectations"
-    ]
-  },
-  {
-    "objectID": "posters.html",
-    "href": "posters.html",
-    "title": "Posters",
-    "section": "",
-    "text": "In some venues, the main presentation format is a poster. Posters are a great way to present your work in a visual format, and to have one-on-one conversations with people who are interested in your work.\nOne common mistake people make while making posters is to try to cram in too much information. Remember that the poster is to supplement you and not to replace you.\nPlease see below for two posters that we have made in the past.\n\n\nPlease find the presentation files corresponding to the first poster 1. Apple Keynote\n\nMS Powerpoint\nGoogle Slides\n\nLaTeX users can use the following templates on Overleaf to make their posters.",
-    "crumbs": [
-      "Lab Notebook",
-      "Communicating Research",
-      "Posters"
-    ]
-  },
-  {
-    "objectID": "values.html",
-    "href": "values.html",
-    "title": "Values",
-    "section": "",
-    "text": "Less but better: Publish one less paper, but make the ones you publish really strong. Show one less result in the meeting, but thoroughly analyse the ones you show.",
-    "crumbs": [
-      "Lab Notebook",
-      "Values"
-    ]
-  },
-  {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Group",
-    "section": "",
-    "text": "Current\n\nPhD\n\n\n\n\n\n\n   Rishiraj Adhikary (July 2019 - present)\n\n\n   Zeel Patel (Jan 2020 - present)\n\n\n   Rishabh Mondal  (June 2023 - present)\n\n\n   Khush Shah  (July 2023 - present)\n\n\n\n\n\n\nMTech\n\n\n\n\n\n\n   Suraj Jaiswal (July 2022 - present)\n\n\n Ayush Srivastava (July 2022 - present)\n\n\n Poornima Bhatia (July 2023 - present)\n\n\n Shataxi Dubey (July 2023 - present)\n\n\n Prince Kumar (July 2023 - present)\n\n\n\n\n\nBTech\n\n\n\n\n\n\n\nDhruv Patel (BTech 2024)\nHaikoo Khandor (BTech 2024)\nProgyan Das (BTech 2024)\nMadhav Kanda (BTech 2024)\nAditi Agarwal (BTech 2024)\nUtkarsh Mittal (BTech 2024)\nVannsh Jani (BTech 2026)\n\n\n\n\n\n\n\nAlumni\n\nBTech\n\nAadesh Desai (BTech 2023): MS at CMU\nEshan Gujarathi (BTech 2023): Predoc at IIT Madras\nGautam Vasistha (BTech 2023): Data Scientist as Skan.AI\nHitarth Gandhi (BTech 2023): MS at UC Irvine\nSaagar Parikh (BTech 2023): MS at CMU\nXhitij Choudhary (BTech 2023): Data Scientist at Skan.AI\nChris Francis (BTech 2022): MS at UCSD\nDhruvi Lodhavia (BTech 2022): MS at UCSD\nHetvi Shastri (BTech 2022): PhD at UMass Amherst\nHarsh Patel (BTech 2022): MS at UCSD\nPalak Purohit (BTech 2022): MS at Caltech\nShivam Sahni (BTech 2022): MS at UCSD\nApoorv Agnihotri (BTech 2020): First job at Wadhwani AI -&gt; Data Scientist at Rephrase.ai\nDeepak Narayanan (BTech 2020): First job at Microsoft Research India -&gt; MS at ETH Zurich\nKukunuri Rithwik (BTech 2020): First job at Jio -&gt; Data Scientist at Nykaa\nSoham Pachpande (BTech 2020): First job at HSBC-&gt; MS at UCSD -&gt; SWE at Salesforce\n\n\n\nMTech\n\nAnkita Jain (MTech 2022): First job at Oracle\nKaran Kumar (MTech 2020): First job at Trading Technologies\nSouvik Roy (MTech 2020): First job at eClerx\n\n\n\nResearch Assistant\n\nKaushal Modi: Now a data scientist at InfiBeam\nPrerna Khanna: Now a PhD student at Stony Brook\nTanmay Srivastava: Now a PhD student at Stony Brook\nRohit Patil: First job at Publicis Sapient\n\n\n\n\nOutside IITGn Interns\n\nVibhuti Bansal (Summer 2022): Now at CRED\nRohit Khoiwal (Summer 2022)\nAnand Hegde (Summer 2022)\nShobhit Belwal (Summer 2022)\nAryan Varshney (Summer 2022)\nAmi Ashish Buch (Summer 2024)\nSajay Raj (Summer 2024)\nMuhammad Zaid Hassan (Summer 2024)\nDevodita Chakravarty (Summer 2024)\nOmisha Guha (Summer 2024)",
-    "crumbs": [
-      "Team"
-    ]
-  },
-  {
-    "objectID": "writing-papers.html",
-    "href": "writing-papers.html",
-    "title": "Writing Papers",
-    "section": "",
-    "text": "Paper writing is a key part of research. This page contains some tips and tricks for writing papers. Paper writing is a skill that you will develop over time. But, it needs deliberate practice.\n\nPaper structure and Abstract\nI gave a talk (recording here, slides here) on how to write a paper. I recommend watching it. Other materials from the talk are available here.\n\n\nLaTeXify figures\nWe’d suggest using this latexification tool to make the matplotlib figures publication-ready. It helps in the following aspects:\n\nIt helps in setting the exact size of the figure relative to the column width or page width of the paper. After using this tool, manually setting the size within the \\begin{figure} block is rarely needed.\nWe can set the font size relative to the text font size in the paper to ensure fonts are not too small or too big.\nIt converts the fonts into latex fonts so that the fonts in the figures do not look different from the main text font.\n\n\nTip: You can find page width and column width with \\the\\textwidth and \\the\\columnwidth commands, respectively.\n\n\n\nSelf-contained figures and tables (and captions)\n\n\nTables\nWe follow this excellent small guide to making nice tables by Markus Püschel.\n\n\nComments in LaTeX\nWe typically create a macro corresponding to different author initials (I use \\nb for example) and then use that to create comments in the text. This is useful for commenting on the text, or for leaving notes to yourself. For example, I might write \\nb{I'm not sure about this sentence} and then I can search for all instances of \\nb to find all of my comments.\n\\newcommand{\\nb}[1]{{\\color{red}\\small \\iftoggle{hide}{}{\\textbf{Nipun's comment:} #1}}}\n\n\nActive v/s Passive Voice\n\n\nAmerican v/s British English\nThere are a few differences in spelling between American and British English. For example, the word “colour” in British English is spelled “color” in American English. The word “optimise” in British English is spelled “optimize” in American English. There are also some differences in grammar. I recommend picking one and sticking to it. Most of our previous papers have used British English (but often this depends on the set of co-authors).\n\n\nPaper timelines\n\n\nGrammarly and other AI tools\nI recommend students use Grammarly (or a similar) tool to check their writing once they have done a complete pass of editing. I do not recommend relying a lot on ChatGPT-like tools for writing papers as they can often lead to “correct” sounding but “incorrect” sentences.",
-    "crumbs": [
-      "Lab Notebook",
-      "Communicating Research",
-      "Papers"
-    ]
-  },
-  {
-    "objectID": "technical-background.html",
-    "href": "technical-background.html",
-    "title": "Technical Background",
-    "section": "",
-    "text": "Git and GitHub\nThere are a ton of good resorces on Git and Github. I’m linking two such resources here: - YouTube video by Kevin Stratvert - Github skills\n\n\nPython Data Science Stack\n\nWe recommend students to study the Python for Data Science Handbook by Jake VanderPlas. It is a free online book that covers the basics of Python, NumPy, Pandas, Matplotlib, and Scikit-Learn. It is a great resource for beginners and intermediate students alike.\nWe recommend students regularly hone their skills solving exercises such as 100 Numpy exercises. Given that much of our work is in Torch-like frameworks, the students would also benefit by attempting to solve the exercises using PyTorch.\n\n\n\nObject-Oriented Programming in Python\nRealPython has a nice tutorial on Object-Oriented Programming in Python. We recommend students to go through the tutorial. They also have a corresponding video page.\n\n\nLaTeX\nWe typically use LaTeX for writing reports and papers. We recommend students to use Overleaf for students to get started. Overleaf has a nice 30 minute tutorial that covers the basics of LaTeX. We highly recommend students to go through the tutorial.\n\n\nCreating a Website and Blog\nWe highly recommend students create a simple website and a blog. We have been happily using Quarto for our website and blog. You may see in action in Nipun’s website and corresponding GitHub repo here; and Nipun’s blog and corresponding Github repo here.\nBoth of these are built via Github actions. Feel free to reuse these for creating your own website and blog. We will be happy to help you get started.",
-    "crumbs": [
-      "Lab Notebook",
-      "Technical Background"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sustainability Lab",
-    "section": "",
-    "text": "Sustainability lab develops sensing and machine learning solutions for various sustainability challenges.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "lor.html",
-    "href": "lor.html",
-    "title": "Letter of Recommendations",
-    "section": "",
-    "text": "How to ask for LOR article by Gautam Kamath",
-    "crumbs": [
-      "Lab Notebook",
-      "Letters of Recommendation"
-    ]
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "In this page, we include the events that we have organized or co-organized.",
-    "crumbs": [
-      "Events"
-    ]
-  },
-  {
-    "objectID": "events.html#section",
-    "href": "events.html#section",
-    "title": "Events",
-    "section": "2023",
-    "text": "2023\nMEDFUSE: Medicine, Engineering, and Data Fusion for Health",
-    "crumbs": [
-      "Events"
-    ]
-  },
-  {
-    "objectID": "server.html",
-    "href": "server.html",
-    "title": "Server Policy",
-    "section": "",
-    "text": "We often use servers for some of our projects. This page is to document the policies we have for our servers.\n\nServers\n\nSustain\n\n\n\n\nRAM\n192 GB (32 x 6)\n\n\nCPU\nIntel(R) Xeon(R) Silver 4208 CPU @ 2.10GHz\n\n\nNumber of CPUs\n16\n\n\nGPU\nNVIDIA TITAN Xp (12 GB)\n\n\nNumber of GPUs\n1\n\n\n\n\nRamanujan\n\n\n\n\nRAM\n512 GB (32 x 16)\n\n\nCPU\nAMD EPYC 7452 32-Core Processor\n\n\nNumber of CPUs\n64\n\n\nGPU\nNVIDIA A100-SXM4 (80 GB)\n\n\nNumber of GPUs\n4\n\n\n\n\n\nHow to get access\nSend an email to Mr. Raviraj Sukhadiya, keeping Prof. Nipun Batra in cc. Mention the following details in your request: i) server name; ii) purpose for access.\n\n\nDon’ts\n\nDo not use the server for personal use or anything not related to the project. This includes any classwork or homework.\nDo not share your server credentials with anyone else.\n\n\n\nFair usage\n\nSometimes we have multiple projects running on the same server. Please be considerate of other projects and do not use up all the resources.\nSometimes we may allocate specific cores or GPUs to specific projects. Please do not use cores or GPUs that are not allocated to your project.",
-    "crumbs": [
-      "Lab Notebook",
-      "Server Policy"
+      "News"
     ]
   },
   {
@@ -459,7 +469,6 @@
     "section": "",
     "text": "2024\nMay 15\n\nForecasting\n\nLarge Language Models are Few-Shot Health Learners\nLeveraging Language Foundation Models for Human Mobility Forecasting\n\n\n\nHealth\n\nLarge Language Models are Few-Shot Health Learners\n``It Is a Moving Process’’: Understanding the Evolution of Explainability Needs of Clinicians in Pulmonary Medicine\n\n\n\nActive Learning + Spatio temporal\n\nDeep Bayesian Active Learning for Accelerating Stochastic Simulation\nActive Learning on a Budget: Opposite Strategies Suit High and Low Budgets\nDeep Distributed Fusion Network for Air Quality Prediction\n\n\n\n\nObject Detection + Sustainable Vision\n\nYou Only Look Once: Unified, Real-Time Object Detection\nGenerating Interpretable Poverty Maps using Object Detection in Satellite Images",
     "crumbs": [
-      "Lab Notebook",
       "Reading Group"
     ]
   },
