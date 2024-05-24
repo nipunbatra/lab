@@ -2,12 +2,10 @@
 title: Publications
 ---
 
-#### JoulesEye: Energy Expenditure Estimation and Respiration Sensing from Thermal Imagery While Exercising
-
 <div class="paper">
 <img src="https://nipunbatra.github.io/images/nipun.jpg" class="paper-image">
 <div class="paper-details">
-<h2 class="paper-title">JoulesEye: Energy Expenditure Estimation and Respiration Sensing from Thermal Imagery While Exercising</h2>
+<h3 class="paper-title">JoulesEye: Energy Expenditure Estimation and Respiration Sensing from Thermal Imagery While Exercising</h3>
 <p><strong>Authors:</strong> Rishiraj Adhikary, Maite Sadeh, Nipun Batra, Mayank Goel</p>
 <p><strong>Publication:</strong> ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2024; and ACM Ubicomp 2024</p>
 <a href="../papers/2024/IMWUT_JoulesEye.pdf" class="button">PDF</a>
