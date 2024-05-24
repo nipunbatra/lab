@@ -1,11 +1,10 @@
 ---
-title: Group
+title: Members
 output:
   html_document:
     self_contained: false
 ---
 
-### Current
 
 #### Faculty
 ::: {layout-ncol=5}
@@ -14,6 +13,7 @@ output:
 </a>
 <span style="font-size: 0.8em;">Nipun Batra</span>
 
+:::
 
 #### PhD 
 
@@ -85,12 +85,6 @@ output:
 
 ::: {layout-ncol=2}
 
-- Dhruv Patel (BTech 2024)
-- Haikoo Khandor (BTech 2024)
-- Progyan Das (BTech 2024)
-- Madhav Kanda (BTech 2024)
-- Aditi Agarwal (BTech 2024)
-- Utkarsh Mittal (BTech 2024)
 - Vannsh Jani (BTech 2026)
 
 :::
@@ -101,6 +95,12 @@ output:
 
 #### BTech
 
+- Dhruv Patel (BTech 2024): MS at TAMU
+- Haikoo Khandor (BTech 2024): MS at TAMU
+- Progyan Das (BTech 2024): Applied Scientist at Microsoft
+- Madhav Kanda (BTech 2024): MS at UIUC
+- Aditi Agarwal (BTech 2024): Predoc at Google Deepmind
+- Utkarsh Mittal (BTech 2024): MS at NYU Tandon
 - Aadesh Desai (BTech 2023): MS at CMU
 - Eshan Gujarathi (BTech 2023): Predoc at IIT Madras
 - Gautam Vasistha (BTech 2023): Data Scientist as Skan.AI
