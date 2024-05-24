@@ -376,7 +376,7 @@
     "href": "papers/index.html",
     "title": "Publications",
     "section": "",
-    "text": "&lt;h2 class=\"paper-title\"&gt;JoulesEye: Energy Expenditure Estimation and Respiration Sensing from Thermal Imagery While Exercising&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Rishiraj Adhikary, Maite Sadeh, Nipun Batra, Mayank Goel&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Publication:&lt;/strong&gt; ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2024; and ACM Ubicomp 2024&lt;/p&gt;\n&lt;a href=\"../papers/2024/IMWUT_JoulesEye.pdf\" class=\"button\"&gt;PDF&lt;/a&gt;\n&lt;a href=\"path/to/bibtex.bib\" class=\"button\"&gt;BibTeX&lt;/a&gt;\n&lt;a href=\"https://indianexpress.com/article/cities/ahmedabad/research-scholar-at-iitgn-develops-device-to-overcome-fitness-monitoring-limitations-9180741/\" class=\"paper-button\"&gt;News coverage&lt;/a&gt;\n&lt;a href=\"https://www.youtube.com/watch?v=5J9KqrDnj20\" class=\"paper-button\"&gt;YouTube&lt;/a&gt;"
+    "text": "Authors: Rishiraj Adhikary, Maite Sadeh, Nipun Batra, Mayank Goel\n\n\nPublication: ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2024; and ACM Ubicomp 2024\n\nPDF BibTeX News coverage YouTube"
   },
   {
     "objectID": "papers/index.html#section",
