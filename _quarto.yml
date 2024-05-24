@@ -18,6 +18,10 @@ website:
         text: Publications
       - href: events.qmd
         text: Events
+      - href: reading.qmd
+        text: Reading Group
+      - href: news.qmd
+        text: News
       - section: Lab Notebook
         contents:
           - href: values.qmd
@@ -42,8 +46,7 @@ website:
             text: Letters of Recommendation
           - href: server.qmd
             text: Server Policy 
-          - href: reading.qmd
-            text: Reading Group
+          
           
 format:
   html:
